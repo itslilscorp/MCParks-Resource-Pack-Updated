@@ -1,7 +1,7 @@
 # MCParks Resource Pack Updated & Fixed
 **All versions are converted from the original 1.12 pack by me even if an official version exists. If any issues are found, please report them so they can be fixed.**
 
-This is an unofficial<sup> [1](1)</sup> updated version of the current MCParks resource pack including fixes for Minecraft versions after 1.12. 
+This is an unofficial<sup> [1](#1)</sup> updated version of the current MCParks resource pack including fixes for Minecraft versions after 1.12. 
 
 The original 1.12 version is also included for the sake of consistency.
 
@@ -30,8 +30,8 @@ This is stuff that has been changed or updated in this version of the resource p
 ### How are you updating the packs using a script?
 On the backend, I'm using a tool called n8n to check if the resource pack has been updated. If it has been updated, it runs a few batch scripts that will:
   - Load the original 1.12 resource pack into a working folder
-  - Add the resources to fix the invisible item frames<sup> [2](2)</sup>
-  - Run the resource pack converter<sup> [3](3)</sup> to convert to 1.13.
+  - Add the resources to fix the invisible item frames<sup> [2](#2)</sup>
+  - Run the resource pack converter<sup> [3](#3)</sup> to convert to 1.13.
   - Run an additional pass of resource pack conversions to tidy up anything left behind by the converter.
   - Package up the resource pack for deployment on Github
   - Repeat for each version 1.14+.
@@ -44,7 +44,7 @@ Generally speaking, if the MCParks official pack updates, it should also be upda
 ### Why haven't you provided the actual scripts?
 Honestly... the scripts are quite a janky mess that I'm surprised work as well as they do now. They are also tailored to work on my PC and may not work on other PCs due to file directory issues. 
 
-This is definitely fixable, but I don't have the time to really mess with it right now. A good place to start for anyone wanting to try updating a pack on their own is this<sup> [3](3)</sup> resource pack converter.
+This is definitely fixable, but I don't have the time to really mess with it right now. A good place to start for anyone wanting to try updating a pack on their own is this<sup> [3](#3)</sup> resource pack converter.
 
 For the record, if the server operators would like a copy of the scripts I'm using, I can provide them, but for right now, I won't be releasing them otherwise.
 
