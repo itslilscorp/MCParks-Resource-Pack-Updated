@@ -1,6 +1,9 @@
 {
   "pack": {
-    "pack_format": 3,
+    "pack_format": 6,
     "description": "MCParks Resource Pack v1.12_138"
+  },
+  "meta": {
+    "game_version": "1.16.5"
   }
 }
