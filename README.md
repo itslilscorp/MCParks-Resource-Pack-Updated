@@ -39,7 +39,7 @@ On the backend, I'm using a tool called n8n to check if the resource pack has be
 After this is finished, n8n uploads the updated files to Github.
 
 ### How long will it take you to update the packs here?
-Generally speaking, if the MCParks official pack updates, it should also be updated here within an hour. Technically speaking, I am checking for a resource pack update every 30 minutes or so. Once an update is found, the scripts can take around 30 minutes to fully convert everything and upload it here. That said, errors can and will happen, so take this estimate with a grain of salt.
+Generally speaking, if the MCParks official pack updates, it should also be updated here within an hour. Technically speaking, I am checking for a resource pack update every 30 minutes or so. Once an update is found, the scripts can take around 15-20 minutes to fully convert everything and upload it here. That said, errors can and will happen, so take this estimate with a grain of salt.
 
 ### Why haven't you provided the actual scripts?
 Honestly... the scripts are quite a janky mess that I'm surprised work as well as they do now. They are also tailored to work on my PC and may not work on other PCs due to file directory issues. 
