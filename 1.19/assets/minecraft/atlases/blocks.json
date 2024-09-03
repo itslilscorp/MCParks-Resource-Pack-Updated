@@ -367,18 +367,8 @@
     },
     {
       "type": "directory",
-      "source": "misc/bunting",
-      "prefix": "misc/bunting/"
-    },
-    {
-      "type": "directory",
       "source": "misc/cars",
       "prefix": "misc/cars/"
-    },
-    {
-      "type": "directory",
-      "source": "misc/christmas",
-      "prefix": "misc/christmas/"
     },
     {
       "type": "directory",
@@ -414,6 +404,11 @@
       "type": "directory",
       "source": "misc/hmhframe",
       "prefix": "misc/hmhframe/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/holiday_decorations",
+      "prefix": "misc/holiday_decorations/"
     },
     {
       "type": "directory",
