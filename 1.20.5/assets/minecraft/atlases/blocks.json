@@ -252,6 +252,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/body",
+      "prefix": "merch/body/"
+    },
+    {
+      "type": "directory",
       "source": "merch/buckethat",
       "prefix": "merch/buckethat/"
     },
@@ -434,6 +439,11 @@
       "type": "directory",
       "source": "misc/obb",
       "prefix": "misc/obb/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/pumpkins",
+      "prefix": "misc/pumpkins/"
     },
     {
       "type": "directory",
