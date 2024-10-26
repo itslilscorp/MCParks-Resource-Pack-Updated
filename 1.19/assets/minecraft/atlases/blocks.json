@@ -337,6 +337,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/mummy",
+      "prefix": "merch/mummy/"
+    },
+    {
+      "type": "directory",
       "source": "merch/pride",
       "prefix": "merch/pride/"
     },
@@ -434,6 +439,11 @@
       "type": "directory",
       "source": "misc/modelpalooza",
       "prefix": "misc/modelpalooza/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/mummy",
+      "prefix": "misc/mummy/"
     },
     {
       "type": "directory",
