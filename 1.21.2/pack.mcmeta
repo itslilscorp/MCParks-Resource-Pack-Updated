@@ -1,0 +1,13 @@
+{
+    "pack":  {
+                 "pack_format":  42,
+                 "description":  "MCParks Resource Pack v1.12_142",
+                 "supported_formats":  {
+                                           "min_inclusive":  42,
+                                           "max_inclusive":  42
+                                       }
+             },
+    "meta":  {
+                 "game_version":  "1.21.3"
+             }
+}
