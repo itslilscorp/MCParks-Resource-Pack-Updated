@@ -1,0 +1,897 @@
+{
+    "model":  {
+                  "entries":  [
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/magicband/dailies/sits_0",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.016666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/magicband/dailies/sits_1",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.033333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/magicband/dailies/skyliner_0",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.05
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/magicband/dailies/skyliner_1",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.066666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/halloween/achievements-oogie",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.083333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe6",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.1
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/halloween/achievements-pumpkin",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.116666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe8",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.133333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe9",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.15
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe10",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.166666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe11",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.183333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe12",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.2
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe13",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.216666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe14",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.233333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe15",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.25
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe16",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.266666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe17",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.283333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe18",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.3
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe19",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.316666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe20",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.333333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe21",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.35
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe22",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.366666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe23",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.383333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe24",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.4
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe25",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.416666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe26",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.433333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe27",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.45
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe28",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.466666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe29",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.483333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe30",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.5
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe31",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.516666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe32",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.533333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe33",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.55
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe34",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.566666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe35",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.583333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe36",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.6
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe37",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.616666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe38",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.633333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe39",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.65
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe40",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.666666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe41",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.683333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe42",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.7
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe43",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.716666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe44",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.733333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe45",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.75
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe46",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.766666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe47",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.783333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe48",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.8
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe49",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.816666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe50",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.833333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe51",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.85
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe52",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.866666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe53",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.883333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe54",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.9
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe55",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.916666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe56",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.933333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe57",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.95
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe58",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.966666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_axe59",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.983333333333333
+                                  }
+                              ],
+                  "property":  "damage",
+                  "fallback":  {
+                                   "model":  "item/handheld",
+                                   "type":  "model"
+                               },
+                  "type":  "range_dispatch"
+              }
+}

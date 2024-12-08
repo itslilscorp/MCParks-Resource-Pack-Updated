@@ -1,0 +1,897 @@
+{
+    "model":  {
+                  "entries":  [
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/wdw/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.016666666666666666
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/wdw/mk/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.03333333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/wdw/epcot/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.05
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/wdw/dhs/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.06666666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/wdw/ak/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.08333333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.1
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.11666666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.13333333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/uor/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.15
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/uor/uso/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.16666666666666666
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/uor/ioa/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.18333333333333332
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/uor/vb/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.2
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.21666666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/dlr/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.23333333333333334
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/dlr/dl/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.25
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/dlr/dca/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.26666666666666666
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shop/shop",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.2833333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.3
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.31666666666666665
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/tdr/park_tdr",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.3333333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/bgt/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.35
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/tdr/tdl/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.36666666666666664
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/tdr/sea/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.3833333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.4
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/dlp/park_dlp",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.4166666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/dlp/village",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.43333333333333335
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/dlp/dl/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.45
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/dlp/studios/park",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.4666666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.48333333333333334
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.5
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.5166666666666666
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.5333333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.55
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.5666666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.5833333333333334
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.6
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/7am",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.6166666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/12am",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.6333333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/dlmap",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.65
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/times",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.6666666666666666
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/sun",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.6833333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/mon",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.7
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/tues",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.7166666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/wed",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.7333333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/thurs",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.75
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/fri",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.7666666666666666
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/sat",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.7833333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/11am",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.8
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/4pm",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.8166666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "shows/9pm",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.8333333333333334
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/ioamap",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.85
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/xmasmap",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.8666666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/maps",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.8833333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/backpack",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.9
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/support",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.9166666666666666
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/settings",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.9333333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "misc/achievements",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.95
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "resorts/gf",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.9666666666666667
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "attractions/attractions",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/handheld",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0.9833333333333333
+                                  }
+                              ],
+                  "property":  "damage",
+                  "fallback":  {
+                                   "model":  "item/handheld",
+                                   "type":  "model"
+                               },
+                  "type":  "range_dispatch"
+              }
+}
