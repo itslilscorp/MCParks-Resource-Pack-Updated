@@ -1,1 +1,1 @@
-{"parent":"vehicles/iasw_teal","textures":{"particle":"block/e_particle","quartz":"block/red_concrete","nether_brickss":"block/red_concrete_powder","stone_slab":"block/smooth_stone","wool_cyan":"block/red_wool","anvil":"block/anvil","coal_block":"block/coal_block"}}
+{"parent":"vehicles/iasw_teal","textures":{"particle":"block/e_particle","quartz":"block/red_concrete","nether_brick":"block/red_concrete_powder","stone_slab":"block/smooth_stone","wool_cyan":"block/red_wool","anvil_base":"block/anvil","coal_block":"block/coal_block"}}

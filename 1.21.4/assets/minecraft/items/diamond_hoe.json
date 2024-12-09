@@ -4714,7 +4714,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/hm/hmh_ironcobweb",
+                                                                     "model":  "misc/hm/hmh_ironweb",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5299,7 +5299,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/hm/hmh_ironcobweb",
+                                                                     "model":  "misc/hm/hmh_ironweb",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -9289,7 +9289,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/easter/eggs_oxeye_daisy",
+                                                                     "model":  "misc/easter/eggs_daisy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -12859,7 +12859,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/halloween/pumpkins/halloweenpumpkin-oxeye_daisy",
+                                                                     "model":  "misc/halloween/pumpkins/halloweenpumpkin-daisy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

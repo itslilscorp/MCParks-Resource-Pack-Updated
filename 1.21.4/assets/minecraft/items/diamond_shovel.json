@@ -4714,7 +4714,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/hm/hmh_ironcobweb",
+                                                                     "model":  "misc/hm/hmh_ironweb",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5299,7 +5299,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/hm/hmh_ironcobweb",
+                                                                     "model":  "misc/hm/hmh_ironweb",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
