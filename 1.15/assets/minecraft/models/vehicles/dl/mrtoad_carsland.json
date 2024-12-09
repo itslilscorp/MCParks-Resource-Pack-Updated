@@ -1,1 +1,1 @@
-{"parent":"vehicles/dl/mrtoad","textures":{"terracotta_red":"block/black_concrete","terracotta_yellow":"block/black_concrete","coal_block":"block/black_concrete","wool_red":"block/black_concrete","wool_grey":"block/black_concrete"},"display":{"head":{"scale":[2.5,2.5,2.5]}}}
+{"parent":"vehicles/dl/mrtoad","textures":{"hardened_clay_red":"block/black_concrete","hardened_clay_yellow":"block/black_concrete","coal_block":"block/black_concrete","wool_red":"block/black_concrete","wool_grey":"block/black_concrete"},"display":{"head":{"scale":[2.5,2.5,2.5]}}}
