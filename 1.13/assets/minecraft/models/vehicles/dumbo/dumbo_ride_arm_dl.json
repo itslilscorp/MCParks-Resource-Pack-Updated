@@ -1,1 +1,1 @@
-{"parent":"vehicles/dumbo/dumbo_ride_arm","textures":{"jungle_planks":"block/jungle_planks","terracotta_red":"block/red_terracotta","terracotta_blue":"block/blue_terracotta","terracotta_grey":"block/light_gray_concrete"}}
+{"parent":"vehicles/dumbo/dumbo_ride_arm","textures":{"planks_jungle":"block/jungle_planks","hardened_clay_red":"block/red_terracotta","hardened_clay_blue":"block/blue_terracotta","hardened_clay_grey":"block/light_gray_concrete"}}
