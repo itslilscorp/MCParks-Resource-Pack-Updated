@@ -427,6 +427,11 @@
     },
     {
       "type": "directory",
+      "source": "misc/ge/maindroids",
+      "prefix": "misc/ge/maindroids/"
+    },
+    {
+      "type": "directory",
       "source": "misc/ge/r",
       "prefix": "misc/ge/r/"
     },
