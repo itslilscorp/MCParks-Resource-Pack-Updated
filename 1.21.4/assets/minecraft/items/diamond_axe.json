@@ -1264,7 +1264,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/misc/djrex-body",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1279,7 +1279,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/misc/djrex-head",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1294,7 +1294,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/misc/djrex-leftarm",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1309,7 +1309,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/misc/djrex-topleftarm",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1324,7 +1324,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/misc/djrex-rightarm",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1339,7 +1339,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/misc/djrex-cap",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1489,7 +1489,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/blades/blade-red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1504,7 +1504,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/blades/blade-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1519,7 +1519,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/blades/blade-green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1534,7 +1534,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/blades/blade-purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1549,7 +1549,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/blades/blade-yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1564,7 +1564,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/blades/blade-white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1579,7 +1579,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/emitters/peacejustice-emitter1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1594,7 +1594,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/emitters/peacejustice-emitter2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1609,7 +1609,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/topsleeves/peacejustice-tsleeve1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1624,7 +1624,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/topsleeves/peacejustice-tsleeve2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1639,7 +1639,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/switches/peacejustice-switch1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1654,7 +1654,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/switches/peacejustice-switch2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1669,7 +1669,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/bottomsleeves/peacejustice-bsleeve1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1684,7 +1684,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/bottomsleeves/peacejustice-bsleeve2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1699,7 +1699,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/endcaps/peacejustice-end1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1714,7 +1714,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/endcaps/peacejustice-end2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

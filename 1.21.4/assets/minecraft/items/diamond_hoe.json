@@ -3589,7 +3589,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere1",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-bb8-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3604,7 +3604,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere2",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-bb8-purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3619,7 +3619,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere3",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-bb8-orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3634,7 +3634,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere4",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-camera-whitered",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3649,7 +3649,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere5",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-camera-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3664,7 +3664,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere6",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-camera-orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3679,7 +3679,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere7",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-flat-purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3694,7 +3694,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere8",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-flat-redwhite",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3709,7 +3709,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere9",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-flat-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3724,7 +3724,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead1",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-bb8-red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3739,7 +3739,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead2",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-bb8-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3754,7 +3754,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead3",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-bb8-orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3769,7 +3769,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead4",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-bb8-purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3784,7 +3784,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead5",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-camera-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3799,7 +3799,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead6",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-camera-whitered",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3814,7 +3814,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead7",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-camera-orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3829,7 +3829,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead8",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-flat-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3844,7 +3844,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead9",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-flat-purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3859,7 +3859,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead10",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-flat-redwhite",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -9574,7 +9574,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere10",
+                                                                     "model":  "misc/ge/droiddepot/bb/spheres/droidsphere-bb8-gold",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -9589,7 +9589,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead11",
+                                                                     "model":  "misc/ge/droiddepot/bb/heads/droidhead-bb8-gold",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13219,7 +13219,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/gelt",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13234,7 +13234,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/blurrgfire",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13249,7 +13249,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/dagobahslugslinger",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13264,7 +13264,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/fuzzytauntaun",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13279,7 +13279,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/theouterrim",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13294,7 +13294,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/endoriantipyip",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13309,7 +13309,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/ithoriangardenpattybun",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13324,7 +13324,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/feluciangardenspread",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13339,7 +13339,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/blackcaf",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13354,7 +13354,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/kettlecorn",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13369,7 +13369,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/ge/kaaduribs",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13384,7 +13384,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/lothcat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
