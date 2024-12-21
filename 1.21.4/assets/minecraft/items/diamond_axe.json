@@ -1354,7 +1354,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/crystals/crystal-red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1369,7 +1369,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/crystals/crystal-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1384,7 +1384,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/crystals/crystal-green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1399,7 +1399,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/crystals/crystal-purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1414,7 +1414,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/crystals/crystal-yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1429,7 +1429,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/crystals/crystal-white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1444,7 +1444,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/crystals/crystal-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1729,7 +1729,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/emitters/powercontrol-emitter1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1744,7 +1744,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/emitters/powercontrol-emitter2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1759,7 +1759,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/topsleeves/powercontrol-tsleeve1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1774,7 +1774,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/topsleeves/powercontrol-tsleeve2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1789,7 +1789,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/switches/powercontrol-switch1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1804,7 +1804,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/switches/powercontrol-switch2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1819,7 +1819,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/bottomsleeves/powercontrol-bsleeve1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1834,7 +1834,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/bottomsleeves/powercontrol-bsleeve2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1849,7 +1849,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/endcaps/powercontrol-end1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1864,7 +1864,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/endcaps/powercontrol-end2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1879,7 +1879,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/emitters/elementalnature-emitter1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1894,7 +1894,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/emitters/elementalnature-emitter2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1909,7 +1909,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/topsleeves/elementalnature-tsleeve1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1924,7 +1924,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/topsleeves/elementalnature-tsleeve2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1939,7 +1939,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/switches/elementalnature-switch1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1954,7 +1954,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/switches/elementalnature-switch2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1969,7 +1969,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/bottomsleeves/elementalnature-bsleeve1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1984,7 +1984,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/bottomsleeves/elementalnature-bsleeve2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1999,7 +1999,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/endcaps/elementalnature-end1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2014,7 +2014,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/endcaps/elementalnature-end2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2029,7 +2029,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/emitters/protectdefense-emitter1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2044,7 +2044,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/emitters/protectdefense-emitter2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2059,7 +2059,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/topsleeves/protectdefense-tsleeve1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2074,7 +2074,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/topsleeves/protectdefense-tsleeve2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2089,7 +2089,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/switches/protectdefense-switch1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2104,7 +2104,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/switches/protectdefense-switch2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2119,7 +2119,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/bottomsleeves/protectdefense-bsleeve1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2134,7 +2134,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/bottomsleeves/protectdefense-bsleeve2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2149,7 +2149,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/endcaps/protectdefense-end1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2164,7 +2164,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/ge/savi/endcaps/protectdefense-end2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

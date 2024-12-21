@@ -3874,7 +3874,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg1",
+                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg-white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3889,7 +3889,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg2",
+                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg-red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3904,7 +3904,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg3",
+                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3919,7 +3919,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg4",
+                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3934,7 +3934,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody1",
+                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody-white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3949,7 +3949,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody2",
+                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody-red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3964,7 +3964,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody3",
+                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3979,7 +3979,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody4",
+                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3994,7 +3994,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody5",
+                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody-green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4009,7 +4009,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody6",
+                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody-whitered",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4024,7 +4024,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head1",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4039,7 +4039,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head2",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head-red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4054,7 +4054,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head3",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4069,7 +4069,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head4",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head-purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4084,7 +4084,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head5",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head-green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4099,7 +4099,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr3head1",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr3head-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4114,7 +4114,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr3head2",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr3head-orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4129,7 +4129,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr3head3",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr3head-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4144,7 +4144,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr4head1",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr4head-purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4159,7 +4159,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr4head2",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr4head-orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4174,7 +4174,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr5head1",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr5head-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4189,7 +4189,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr5head2",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr5head-white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4204,7 +4204,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr5head3",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr5head-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4219,7 +4219,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr5head4",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr5head-red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4234,7 +4234,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr6head1",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr6head-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4249,7 +4249,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr6head2",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr6head-red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4264,7 +4264,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr6head3",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr6head-purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4279,7 +4279,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr0head1",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr0head-blackorange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4294,7 +4294,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr0head2",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr0head-white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4309,7 +4309,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg1",
+                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg-white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4324,7 +4324,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg2",
+                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg-red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4339,7 +4339,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg3",
+                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg-blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4354,7 +4354,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg4",
+                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg-black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4369,7 +4369,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg5",
+                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg-green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4384,7 +4384,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg6",
+                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg-redwhite",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -9154,7 +9154,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody9",
+                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody-whiteblue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -9514,7 +9514,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody10",
+                                                                     "model":  "misc/ge/droiddepot/r/body/droidbody-gold",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -9529,7 +9529,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head6",
+                                                                     "model":  "misc/ge/droiddepot/r/heads/droidr2head-gold",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -9544,7 +9544,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg6",
+                                                                     "model":  "misc/ge/droiddepot/r/blegs/droidbleg-gold",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -9559,7 +9559,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg8",
+                                                                     "model":  "misc/ge/droiddepot/r/slegs/droidsleg-gold",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13399,7 +13399,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/spork",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
