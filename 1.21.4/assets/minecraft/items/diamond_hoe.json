@@ -13414,7 +13414,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/violin",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13429,7 +13429,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/olaf/olaf_head",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13444,7 +13444,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/olaf/olaf_torso",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13459,7 +13459,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/olaf/olaf_arm",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13474,7 +13474,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/olaf/olaf_bottom",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13489,7 +13489,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/olaf/olaf_mouth",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13504,7 +13504,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/single_vines",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13519,7 +13519,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/double_vines",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13534,7 +13534,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/snowgie_bottom",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13549,7 +13549,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/snowgie_head",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13564,7 +13564,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/sven",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

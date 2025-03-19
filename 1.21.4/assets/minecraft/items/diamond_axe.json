@@ -2179,7 +2179,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/bgt/cheetahhunt/ch_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2194,7 +2194,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/bgt/cheetahhunt/ch_train",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2209,7 +2209,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/sierrasidewinder",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2224,7 +2224,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/sidewinder_bottom_mid",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2239,7 +2239,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/sidewinder_bottom_end",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2254,7 +2254,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/ponyexpress/pe_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2269,7 +2269,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/ponyexpress/pe_mid",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2284,7 +2284,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/ponyexpress/pe_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2299,7 +2299,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/new_frozen",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
