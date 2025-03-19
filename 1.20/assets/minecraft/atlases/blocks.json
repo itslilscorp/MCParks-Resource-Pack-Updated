@@ -132,13 +132,58 @@
     },
     {
       "type": "directory",
+      "source": "clothing/ariel_human-assets",
+      "prefix": "clothing/ariel_human-assets/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/bgt",
+      "prefix": "clothing/bgt/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/cm",
       "prefix": "clothing/cm/"
     },
     {
       "type": "directory",
+      "source": "clothing/cm/contemporary_resort",
+      "prefix": "clothing/cm/contemporary_resort/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/everest",
+      "prefix": "clothing/cm/everest/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/libertysquare",
+      "prefix": "clothing/cm/libertysquare/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/mktomorrowland",
+      "prefix": "clothing/cm/mktomorrowland/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/mk_mainstreet",
+      "prefix": "clothing/cm/mk_mainstreet/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/transportation",
+      "prefix": "clothing/cm/transportation/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/epcot_skins",
       "prefix": "clothing/epcot_skins/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/epcot_skins/fea",
+      "prefix": "clothing/epcot_skins/fea/"
     },
     {
       "type": "directory",
@@ -157,6 +202,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/minions",
+      "prefix": "clothing/minions/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/rundisney",
       "prefix": "clothing/rundisney/"
     },
@@ -164,6 +214,41 @@
       "type": "directory",
       "source": "clothing/star_wars",
       "prefix": "clothing/star_wars/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase",
+      "prefix": "clothing/world_showcase/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/canada",
+      "prefix": "clothing/world_showcase/canada/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/germany",
+      "prefix": "clothing/world_showcase/germany/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/japan",
+      "prefix": "clothing/world_showcase/japan/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/mexico",
+      "prefix": "clothing/world_showcase/mexico/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/norway",
+      "prefix": "clothing/world_showcase/norway/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/uk",
+      "prefix": "clothing/world_showcase/uk/"
     },
     {
       "type": "directory",
@@ -427,6 +512,11 @@
     },
     {
       "type": "directory",
+      "source": "misc/fea",
+      "prefix": "misc/fea/"
+    },
+    {
+      "type": "directory",
       "source": "misc/ge",
       "prefix": "misc/ge/"
     },
@@ -579,6 +669,11 @@
       "type": "directory",
       "source": "vehicles/knotts/ghostrider",
       "prefix": "vehicles/knotts/ghostrider/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/knotts/ponyexpress",
+      "prefix": "vehicles/knotts/ponyexpress/"
     },
     {
       "type": "directory",
