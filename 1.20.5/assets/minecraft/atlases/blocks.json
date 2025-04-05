@@ -162,6 +162,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/cm/mk",
+      "prefix": "clothing/cm/mk/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/cm/mktomorrowland",
       "prefix": "clothing/cm/mktomorrowland/"
     },
@@ -202,6 +207,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/kbf",
+      "prefix": "clothing/kbf/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/minions",
       "prefix": "clothing/minions/"
     },
@@ -222,8 +232,28 @@
     },
     {
       "type": "directory",
+      "source": "clothing/world_showcase/africa",
+      "prefix": "clothing/world_showcase/africa/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/america",
+      "prefix": "clothing/world_showcase/america/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/world_showcase/canada",
       "prefix": "clothing/world_showcase/canada/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/china",
+      "prefix": "clothing/world_showcase/china/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/france",
+      "prefix": "clothing/world_showcase/france/"
     },
     {
       "type": "directory",
@@ -239,6 +269,11 @@
       "type": "directory",
       "source": "clothing/world_showcase/mexico",
       "prefix": "clothing/world_showcase/mexico/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/morocco",
+      "prefix": "clothing/world_showcase/morocco/"
     },
     {
       "type": "directory",
@@ -592,6 +627,11 @@
     },
     {
       "type": "directory",
+      "source": "misc/wishingwell",
+      "prefix": "misc/wishingwell/"
+    },
+    {
+      "type": "directory",
       "source": "models",
       "prefix": "models/"
     },
@@ -719,6 +759,11 @@
       "type": "directory",
       "source": "vehicles/wdw",
       "prefix": "vehicles/wdw/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/friendship_boat",
+      "prefix": "vehicles/wdw/friendship_boat/"
     }
   ]
 }
