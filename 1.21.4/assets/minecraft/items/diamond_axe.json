@@ -2314,7 +2314,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/friendship_boat/friendship_front_yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2329,7 +2329,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/friendship_boat/friendship_back_yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

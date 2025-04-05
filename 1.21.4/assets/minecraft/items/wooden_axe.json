@@ -109,7 +109,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe8",
+                                                                     "model":  "misc/wishingwell/asan",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -124,7 +124,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe9",
+                                                                     "model":  "misc/wishingwell/direct_relief",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -139,7 +139,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe10",
+                                                                     "model":  "misc/wishingwell/gktwv",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -154,7 +154,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe11",
+                                                                     "model":  "misc/wishingwell/habitat_for_humanity",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -169,7 +169,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe12",
+                                                                     "model":  "misc/wishingwell/ifaw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -184,7 +184,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe13",
+                                                                     "model":  "misc/wishingwell/make_a_wish",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -199,7 +199,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe14",
+                                                                     "model":  "misc/wishingwell/no_kid_hungry",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -214,7 +214,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe15",
+                                                                     "model":  "misc/wishingwell/ocean_conservancy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -229,7 +229,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe16",
+                                                                     "model":  "misc/wishingwell/project_hope",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -244,7 +244,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe17",
+                                                                     "model":  "misc/wishingwell/rainbow_railroad",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -259,7 +259,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe18",
+                                                                     "model":  "misc/wishingwell/scholarship_america",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -274,7 +274,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe19",
+                                                                     "model":  "misc/wishingwell/second_harvest",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -289,7 +289,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe20",
+                                                                     "model":  "misc/wishingwell/st_jude",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -304,7 +304,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe21",
+                                                                     "model":  "misc/wishingwell/starlight_childrens_foundation",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -319,7 +319,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe22",
+                                                                     "model":  "misc/wishingwell/trevor_project",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -334,7 +334,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe23",
+                                                                     "model":  "misc/wishingwell/doctors_without_borders",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

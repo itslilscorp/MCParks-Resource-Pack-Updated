@@ -13579,7 +13579,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/sven-jaw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13594,7 +13594,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/kristoffsguitar",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13609,7 +13609,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/sven-head",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13624,7 +13624,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/sven-ear",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13639,7 +13639,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/marshmallow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13654,7 +13654,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fea/marshmallow-jaw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13669,7 +13669,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/kbf/cowboy_snoopy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13684,7 +13684,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/kbf/cowboy_woodstock",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13699,7 +13699,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/mcparks12_buckethat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13714,7 +13714,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/mcparks12_partyhat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

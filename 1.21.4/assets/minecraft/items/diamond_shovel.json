@@ -7399,7 +7399,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "misc/binasguideicon",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
