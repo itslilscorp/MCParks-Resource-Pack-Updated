@@ -13729,7 +13729,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "books/passport",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13744,7 +13744,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/70th/bunting_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13759,7 +13759,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/70th/bunting_2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13774,7 +13774,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/70th/bunting_3",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13789,7 +13789,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/70th/lightpole_banner",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13804,7 +13804,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/misc/graduation2026",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13819,7 +13819,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/misc/graduation2027",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13834,7 +13834,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/misc/graduation2028",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13849,7 +13849,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/misc/graduation2029",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13864,7 +13864,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/misc/graduation2030",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13879,7 +13879,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/penguinpet",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13894,7 +13894,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/merrymenagerie_penguinpet",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13909,7 +13909,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/body/globe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13924,7 +13924,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/70th/70th_castle_medallion",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
