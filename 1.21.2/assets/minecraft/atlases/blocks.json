@@ -147,8 +147,43 @@
     },
     {
       "type": "directory",
+      "source": "clothing/cm/bbb",
+      "prefix": "clothing/cm/bbb/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/cm/contemporary_resort",
       "prefix": "clothing/cm/contemporary_resort/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/dlp",
+      "prefix": "clothing/cm/dlp/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/dlp/discoveryland",
+      "prefix": "clothing/cm/dlp/discoveryland/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/dlp/fantasyland",
+      "prefix": "clothing/cm/dlp/fantasyland/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/dlp/frontierland",
+      "prefix": "clothing/cm/dlp/frontierland/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/dlp/pm",
+      "prefix": "clothing/cm/dlp/pm/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/dlp/wds",
+      "prefix": "clothing/cm/dlp/wds/"
     },
     {
       "type": "directory",
@@ -227,6 +262,26 @@
     },
     {
       "type": "directory",
+      "source": "clothing/uor",
+      "prefix": "clothing/uor/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/uor/dreamworksland",
+      "prefix": "clothing/uor/dreamworksland/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/uor/ioa",
+      "prefix": "clothing/uor/ioa/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/uor/minionsland",
+      "prefix": "clothing/uor/minionsland/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/world_showcase",
       "prefix": "clothing/world_showcase/"
     },
@@ -259,6 +314,11 @@
       "type": "directory",
       "source": "clothing/world_showcase/germany",
       "prefix": "clothing/world_showcase/germany/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/world_showcase/italy",
+      "prefix": "clothing/world_showcase/italy/"
     },
     {
       "type": "directory",
@@ -764,6 +824,11 @@
       "type": "directory",
       "source": "vehicles/wdw/friendship_boat",
       "prefix": "vehicles/wdw/friendship_boat/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/parkingtram",
+      "prefix": "vehicles/wdw/parkingtram/"
     }
   ]
 }
