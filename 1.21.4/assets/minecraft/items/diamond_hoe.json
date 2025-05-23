@@ -13939,7 +13939,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/70th/70th_medallion",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
