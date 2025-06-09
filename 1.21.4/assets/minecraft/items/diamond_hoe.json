@@ -13954,7 +13954,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/dapper_dan/pride",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
