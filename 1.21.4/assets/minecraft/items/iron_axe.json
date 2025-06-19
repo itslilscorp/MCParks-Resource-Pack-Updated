@@ -64,7 +64,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/wdw_btm_engine",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -79,7 +79,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/wdw_btm_car",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3379,7 +3379,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl_btm_engine",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

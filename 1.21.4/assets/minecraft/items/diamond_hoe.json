@@ -13969,7 +13969,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/pixar_place/mobile_structure",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13984,7 +13984,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/pixar_place/reserved",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13999,7 +13999,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/pixar_place/reserved",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14014,7 +14014,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/pixar_place/reserved",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14029,7 +14029,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/pixar_place/reserved",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14044,7 +14044,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/pixar_place/reserved",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14059,7 +14059,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/pixar_place/reserved",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14074,7 +14074,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/pixar_place/reserved",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14089,7 +14089,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/btm_engine_dl_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14104,7 +14104,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/btm_engine_dl_2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14119,7 +14119,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/btm_engine_dl_3",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14134,7 +14134,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/btm_car_dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14149,7 +14149,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/btm_engine_dlp",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14164,7 +14164,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/btm_car_dlp",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14179,7 +14179,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/tta_door_r",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14194,7 +14194,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/tta_door_l",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14209,7 +14209,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/mcparks_wand",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14224,7 +14224,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/dlkey",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14239,7 +14239,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/aurora",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14254,7 +14254,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/belle",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14269,7 +14269,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/cinderella",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14284,7 +14284,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/elsa",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14299,7 +14299,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/jasmine",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14314,7 +14314,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/mulan",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14329,7 +14329,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/rapunzel",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14344,7 +14344,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/snow_white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14359,7 +14359,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/tiana",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14374,7 +14374,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/moana_crown",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14389,7 +14389,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/anna",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14404,7 +14404,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/ariel",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14419,7 +14419,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/donkey",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
