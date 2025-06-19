@@ -577,6 +577,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/tiaras",
+      "prefix": "merch/tiaras/"
+    },
+    {
+      "type": "directory",
       "source": "merch/tt",
       "prefix": "merch/tt/"
     },
@@ -677,6 +682,11 @@
     },
     {
       "type": "directory",
+      "source": "misc/pixar_place",
+      "prefix": "misc/pixar_place/"
+    },
+    {
+      "type": "directory",
       "source": "misc/pumpkins",
       "prefix": "misc/pumpkins/"
     },
@@ -747,8 +757,23 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/dl",
+      "prefix": "vehicles/dl/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dl/btm",
+      "prefix": "vehicles/dl/btm/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/dlp",
       "prefix": "vehicles/dlp/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dlp/btm",
+      "prefix": "vehicles/dlp/btm/"
     },
     {
       "type": "directory",
@@ -824,6 +849,11 @@
       "type": "directory",
       "source": "vehicles/wdw/friendship_boat",
       "prefix": "vehicles/wdw/friendship_boat/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/monorail",
+      "prefix": "vehicles/wdw/monorail/"
     },
     {
       "type": "directory",
