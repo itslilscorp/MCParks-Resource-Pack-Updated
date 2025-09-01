@@ -157,6 +157,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/cm/dl",
+      "prefix": "clothing/cm/dl/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/cm/dlp",
       "prefix": "clothing/cm/dlp/"
     },
@@ -212,8 +217,18 @@
     },
     {
       "type": "directory",
+      "source": "clothing/cm/pixar",
+      "prefix": "clothing/cm/pixar/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/cm/transportation",
       "prefix": "clothing/cm/transportation/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/dl",
+      "prefix": "clothing/dl/"
     },
     {
       "type": "directory",
@@ -237,6 +252,21 @@
     },
     {
       "type": "directory",
+      "source": "clothing/hhn",
+      "prefix": "clothing/hhn/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/hhn/st",
+      "prefix": "clothing/hhn/st/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/hm",
+      "prefix": "clothing/hm/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/indy",
       "prefix": "clothing/indy/"
     },
@@ -252,13 +282,28 @@
     },
     {
       "type": "directory",
+      "source": "clothing/ppf",
+      "prefix": "clothing/ppf/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/rundisney",
       "prefix": "clothing/rundisney/"
     },
     {
       "type": "directory",
+      "source": "clothing/simpsons",
+      "prefix": "clothing/simpsons/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/star_wars",
       "prefix": "clothing/star_wars/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/tlm",
+      "prefix": "clothing/tlm/"
     },
     {
       "type": "directory",
@@ -372,6 +417,11 @@
     },
     {
       "type": "directory",
+      "source": "food/bread",
+      "prefix": "food/bread/"
+    },
+    {
+      "type": "directory",
       "source": "food/candy",
       "prefix": "food/candy/"
     },
@@ -472,6 +522,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/candles",
+      "prefix": "merch/candles/"
+    },
+    {
+      "type": "directory",
       "source": "merch/christmas",
       "prefix": "merch/christmas/"
     },
@@ -507,6 +562,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/fairywings",
+      "prefix": "merch/fairywings/"
+    },
+    {
+      "type": "directory",
       "source": "merch/flags",
       "prefix": "merch/flags/"
     },
@@ -524,6 +584,11 @@
       "type": "directory",
       "source": "merch/halloween/buckets",
       "prefix": "merch/halloween/buckets/"
+    },
+    {
+      "type": "directory",
+      "source": "merch/halloween/hhn",
+      "prefix": "merch/halloween/hhn/"
     },
     {
       "type": "directory",
@@ -627,6 +692,11 @@
     },
     {
       "type": "directory",
+      "source": "misc/ge/bdx",
+      "prefix": "misc/ge/bdx/"
+    },
+    {
+      "type": "directory",
       "source": "misc/ge/maindroids",
       "prefix": "misc/ge/maindroids/"
     },
@@ -659,6 +729,16 @@
       "type": "directory",
       "source": "misc/magicband/dailies",
       "prefix": "misc/magicband/dailies/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/magicband/other",
+      "prefix": "misc/magicband/other/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/magicband/preferences",
+      "prefix": "misc/magicband/preferences/"
     },
     {
       "type": "directory",
@@ -762,13 +842,33 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/dl/autopia",
+      "prefix": "vehicles/dl/autopia/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/dl/btm",
       "prefix": "vehicles/dl/btm/"
     },
     {
       "type": "directory",
+      "source": "vehicles/dl/grr",
+      "prefix": "vehicles/dl/grr/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dl/parkingtram",
+      "prefix": "vehicles/dl/parkingtram/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/dlp",
       "prefix": "vehicles/dlp/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dlp/autopia",
+      "prefix": "vehicles/dlp/autopia/"
     },
     {
       "type": "directory",
@@ -802,11 +902,6 @@
     },
     {
       "type": "directory",
-      "source": "vehicles/monorail",
-      "prefix": "vehicles/monorail/"
-    },
-    {
-      "type": "directory",
       "source": "vehicles/rotr",
       "prefix": "vehicles/rotr/"
     },
@@ -824,6 +919,11 @@
       "type": "directory",
       "source": "vehicles/tdl",
       "prefix": "vehicles/tdl/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/tdl/venetian_gondolas",
+      "prefix": "vehicles/tdl/venetian_gondolas/"
     },
     {
       "type": "directory",
@@ -847,6 +947,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/wdw/expedition_everest",
+      "prefix": "vehicles/wdw/expedition_everest/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/wdw/friendship_boat",
       "prefix": "vehicles/wdw/friendship_boat/"
     },
@@ -859,6 +964,11 @@
       "type": "directory",
       "source": "vehicles/wdw/parkingtram",
       "prefix": "vehicles/wdw/parkingtram/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/speedway",
+      "prefix": "vehicles/wdw/speedway/"
     }
   ]
 }
