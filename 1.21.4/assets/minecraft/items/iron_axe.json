@@ -154,7 +154,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/raft",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -379,7 +379,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/ppf",
+                                                                     "model":  "vehicles/wdw/ppf",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -394,7 +394,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/frozen",
+                                                                     "model":  "vehicles/wdw/expedition_everest/car_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -499,7 +499,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/heimlich_front",
+                                                                     "model":  "misc/heimlich_photo",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -514,7 +514,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/heimlich_middle",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -529,7 +529,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/heimlich_back",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -544,7 +544,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/monsters",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -694,7 +694,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/spaceship_earth",
+                                                                     "model":  "vehicles/wdw/spaceship_earth",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -739,7 +739,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/ee",
+                                                                     "model":  "vehicles/wdw/expedition_everest/car_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2404,7 +2404,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/autopiablack",
+                                                                     "model":  "vehicles/dl/autopia/black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2419,7 +2419,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/autopiablue",
+                                                                     "model":  "vehicles/dl/autopia/blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2434,7 +2434,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/autopiaorange",
+                                                                     "model":  "vehicles/dl/autopia/orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2449,7 +2449,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/autopiared",
+                                                                     "model":  "vehicles/dl/autopia/red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2959,7 +2959,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/speedway/speedway",
+                                                                     "model":  "vehicles/speedway/lime",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2974,7 +2974,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/speedway/speedway_red",
+                                                                     "model":  "vehicles/speedway/red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2989,7 +2989,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/speedway/speedway_white",
+                                                                     "model":  "vehicles/speedway/white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3004,7 +3004,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/speedway/speedway_blue",
+                                                                     "model":  "vehicles/speedway/blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3379,7 +3379,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/iron_axe",
+                                                                     "model":  "vehicles/tdl/venetian_gondolas/gondola_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3529,7 +3529,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/venice",
+                                                                     "model":  "vehicles/tdl/venetian_gondolas/gondola_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3544,7 +3544,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/mmrr/engine",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3559,7 +3559,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/mmrr/door",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3619,7 +3619,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/mmrr/car",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

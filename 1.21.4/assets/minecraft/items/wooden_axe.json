@@ -349,7 +349,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe24",
+                                                                     "model":  "resorts/dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -364,7 +364,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe25",
+                                                                     "model":  "resorts/gc",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -379,7 +379,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe26",
+                                                                     "model":  "resorts/pixar",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -394,7 +394,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe27",
+                                                                     "model":  "misc/magicband/preferences/castmember",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -409,7 +409,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe28",
+                                                                     "model":  "misc/magicband/preferences/friends",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -424,7 +424,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe29",
+                                                                     "model":  "misc/magicband/preferences/general",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -439,7 +439,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe30",
+                                                                     "model":  "misc/magicband/preferences/notifications",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -454,7 +454,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe31",
+                                                                     "model":  "misc/magicband/preferences/parties",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -469,7 +469,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe32",
+                                                                     "model":  "misc/magicband/other/blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -484,7 +484,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe33",
+                                                                     "model":  "misc/magicband/other/gray",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -499,7 +499,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe34",
+                                                                     "model":  "misc/magicband/other/green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -514,7 +514,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe35",
+                                                                     "model":  "misc/magicband/other/red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -529,7 +529,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe36",
+                                                                     "model":  "misc/magicband/dailies/friend_0",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -544,7 +544,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe37",
+                                                                     "model":  "misc/magicband/dailies/friend_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -559,7 +559,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe38",
+                                                                     "model":  "misc/magicband/dailies/hotel_0",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -574,7 +574,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe39",
+                                                                     "model":  "misc/magicband/dailies/hotel_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -589,7 +589,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe40",
+                                                                     "model":  "misc/magicband/dailies/parties_0",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -604,7 +604,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe41",
+                                                                     "model":  "misc/magicband/dailies/parties_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -619,7 +619,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe42",
+                                                                     "model":  "misc/magicband/dailies/spell_0",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -634,7 +634,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe43",
+                                                                     "model":  "misc/magicband/dailies/spell_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -649,7 +649,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe44",
+                                                                     "model":  "misc/magicband/dailies/testtrack_0",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -664,7 +664,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe45",
+                                                                     "model":  "misc/magicband/dailies/testtrack_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -679,7 +679,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe46",
+                                                                     "model":  "misc/magicband/dailies/welcomehome_0",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -694,7 +694,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/wooden_axe47",
+                                                                     "model":  "misc/magicband/dailies/welcomehome_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

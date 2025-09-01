@@ -1954,7 +1954,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/iron_shovel",
+                                                                     "model":  "attractions/uor/ioa/velocicoaster",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

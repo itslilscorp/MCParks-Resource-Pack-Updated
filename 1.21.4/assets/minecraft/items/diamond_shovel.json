@@ -4699,7 +4699,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "minigames/insideout/insideout_controlpanel",
+                                                                     "model":  "item/diamond_hoe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

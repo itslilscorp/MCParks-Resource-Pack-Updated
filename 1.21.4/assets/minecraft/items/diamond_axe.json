@@ -364,7 +364,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/disneysea/dser",
+                                                                     "model":  "vehicles/tdl/dser",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2299,7 +2299,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/new_frozen",
+                                                                     "model":  "vehicles/frozen",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2479,7 +2479,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/parkingtram/parkingtram_coral",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2494,7 +2494,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/parkingtram/parkingtram_teal",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2509,7 +2509,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/parkingtram/parkingtram_lime",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2524,7 +2524,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/parkingtram/parkingtram_yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2539,7 +2539,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/parkingtram/parkingtram_orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2554,7 +2554,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/monorail/doors/gold_end",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2569,7 +2569,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/monorail/doors/purple_end",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2584,7 +2584,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/monorail/doors/pink_end",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2599,7 +2599,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/monorail/gold_end",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2614,7 +2614,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/monorail/purple_end",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2629,7 +2629,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/monorail/pink_end",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2644,7 +2644,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/monorail/gold_middle",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2659,7 +2659,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/monorail/purple_middle",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2674,7 +2674,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/monorail/pink_middle",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2689,7 +2689,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/parkingtram/tram",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2704,7 +2704,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/parkingtram/cart",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2719,7 +2719,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/autopia/red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2734,7 +2734,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/autopia/yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2749,7 +2749,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/autopia/teal",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2764,7 +2764,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/autopia/blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2779,7 +2779,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/autopia/purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2794,7 +2794,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/autopia/pink",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2809,7 +2809,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/autopia/black",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2824,7 +2824,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/autopia/white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2839,7 +2839,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/autopia/silver",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2854,7 +2854,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/autopia/gold",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2869,7 +2869,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/autopia/lime",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2884,7 +2884,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/speedway/orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2899,7 +2899,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/speedway/yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2914,7 +2914,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/speedway/lightblue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2929,7 +2929,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/hm_doombuggy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2944,7 +2944,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/hm_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2959,7 +2959,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/ppf",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
