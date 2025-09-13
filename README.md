@@ -1,11 +1,6 @@
 <h1>
   MCParks Resource Pack Updated &amp; Fixed
-  <img
-    src="https://itslilscorp.ddns.net/files/MCParksPackStatus.png"
-    width="150"
-    alt="Status"
-    align="right"
-  >
+ 
 </h1>
 
 
