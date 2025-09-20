@@ -262,6 +262,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/hhn/twd",
+      "prefix": "clothing/hhn/twd/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/hm",
       "prefix": "clothing/hm/"
     },
