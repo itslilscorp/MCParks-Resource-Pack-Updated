@@ -13984,7 +13984,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/pixar_place/reserved",
+                                                                     "model":  "misc/pixar_place/toy_story",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -13999,7 +13999,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/pixar_place/reserved",
+                                                                     "model":  "misc/pixar_place/walle",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14014,7 +14014,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/pixar_place/reserved",
+                                                                     "model":  "misc/pixar_place/incredibles",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14029,7 +14029,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/pixar_place/reserved",
+                                                                     "model":  "misc/pixar_place/nemo",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14044,7 +14044,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/pixar_place/reserved",
+                                                                     "model":  "misc/pixar_place/soul",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14059,7 +14059,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/pixar_place/reserved",
+                                                                     "model":  "misc/pixar_place/coco",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -14074,7 +14074,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/pixar_place/reserved",
+                                                                     "model":  "misc/pixar_place/monsters_inc",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15724,7 +15724,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/maleficentdragonpet",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15739,7 +15739,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/crowpet",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15754,7 +15754,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/misc/maleficenthorns",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15769,7 +15769,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/campsnoopy_hat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15784,7 +15784,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/kbf/camp_snoopy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15799,7 +15799,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/anger_fire_hair",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15814,7 +15814,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/elphababroom",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15829,7 +15829,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/glindawand",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15844,7 +15844,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/elphabahat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15859,7 +15859,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/tiaras/glindacrown",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

@@ -2974,7 +2974,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/tenderpawtwister",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2989,7 +2989,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/tenderpawtwister_cart",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
