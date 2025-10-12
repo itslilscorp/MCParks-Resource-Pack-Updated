@@ -332,6 +332,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/uor/simpsonsland",
+      "prefix": "clothing/uor/simpsonsland/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/world_showcase",
       "prefix": "clothing/world_showcase/"
     },
@@ -642,11 +647,6 @@
     },
     {
       "type": "directory",
-      "source": "merch/spiderbots",
-      "prefix": "merch/spiderbots/"
-    },
-    {
-      "type": "directory",
       "source": "merch/tiaras",
       "prefix": "merch/tiaras/"
     },
@@ -659,6 +659,11 @@
       "type": "directory",
       "source": "merch/vb",
       "prefix": "merch/vb/"
+    },
+    {
+      "type": "directory",
+      "source": "merch/wicked",
+      "prefix": "merch/wicked/"
     },
     {
       "type": "directory",
@@ -864,6 +869,11 @@
       "type": "directory",
       "source": "vehicles/dl/parkingtram",
       "prefix": "vehicles/dl/parkingtram/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dl/teacups",
+      "prefix": "vehicles/dl/teacups/"
     },
     {
       "type": "directory",
