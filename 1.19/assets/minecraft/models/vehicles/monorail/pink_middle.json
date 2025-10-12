@@ -1,1 +1,1 @@
-{"parent":"vehicles/monorail/red_middle","textures":{"1":"vehicles/wdw/monorail/pink","particle":"vehicles/wdw/monorail/pink"}}
+{"parent":"vehicles/monorail/red_middle","textures":{"1":"vehicles/wdw/monorail/monorail","2":"vehicles/wdw/monorail/pink","particle":"vehicles/wdw/monorail/pink"}}
