@@ -1,0 +1,9 @@
+{
+    "layers":  {
+                   "humanoid":  [
+                                    {
+                                        "texture":  "minecraft:leather_cit/2974156"
+                                    }
+                                ]
+               }
+}

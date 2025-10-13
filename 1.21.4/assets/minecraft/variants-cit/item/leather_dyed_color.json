@@ -1,0 +1,15 @@
+{
+    "modelPrefix":  "leather_cit",
+    "context":  "equippable",
+    "parameters":  {
+                       "componentType":  "minecraft:dyed_color",
+                       "expect":  "number"
+                   },
+    "items":  [
+                  "minecraft:leather_chestplate",
+                  "minecraft:leather_leggings",
+                  "minecraft:leather_boots",
+                  "minecraft:leather_helmet"
+              ],
+    "type":  "component_data"
+}
