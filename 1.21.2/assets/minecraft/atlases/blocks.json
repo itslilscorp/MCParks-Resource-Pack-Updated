@@ -412,6 +412,21 @@
     },
     {
       "type": "directory",
+      "source": "entity/equipment",
+      "prefix": "entity/equipment/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/equipment/humanoid",
+      "prefix": "entity/equipment/humanoid/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/equipment/humanoid_leggings",
+      "prefix": "entity/equipment/humanoid_leggings/"
+    },
+    {
+      "type": "directory",
       "source": "entity/parrot",
       "prefix": "entity/parrot/"
     },
