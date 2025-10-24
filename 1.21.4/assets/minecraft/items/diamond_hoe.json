@@ -15874,7 +15874,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/regular/woodyears",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15889,7 +15889,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/woodytoy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15904,7 +15904,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/regular/remyears",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15919,7 +15919,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/ednahair",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15934,7 +15934,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/22soul",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15949,7 +15949,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/clodshoulderpet",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15964,7 +15964,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/cocoguitar",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15979,7 +15979,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/soxcat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -15994,7 +15994,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/mrmittens",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16009,7 +16009,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "books/sleepingbeautybook",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16024,7 +16024,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/green_fairyhat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16039,7 +16039,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/blue_fairyhat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16054,7 +16054,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/pink_fairyhat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
