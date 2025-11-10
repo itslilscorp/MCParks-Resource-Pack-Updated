@@ -3004,7 +3004,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/mk_passenger",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3019,7 +3019,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/mkengine",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3034,7 +3034,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/mktender",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3049,7 +3049,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/xcelerator/purple_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3064,7 +3064,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/xcelerator/purple_mid",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3079,7 +3079,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/xcelerator/purple_end",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

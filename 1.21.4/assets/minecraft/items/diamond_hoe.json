@@ -16069,7 +16069,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/arlo",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16084,7 +16084,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/beaver",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16099,7 +16099,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/elio_ooooo",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16114,7 +16114,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/horses/angusonastick",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16129,7 +16129,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/onward_staff",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16144,7 +16144,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/tom",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
