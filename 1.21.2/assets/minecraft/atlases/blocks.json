@@ -632,6 +632,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/horses",
+      "prefix": "merch/horses/"
+    },
+    {
+      "type": "directory",
       "source": "merch/jp",
       "prefix": "merch/jp/"
     },
@@ -937,6 +942,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/knotts/xcelerator",
+      "prefix": "vehicles/knotts/xcelerator/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/rotr",
       "prefix": "vehicles/rotr/"
     },
@@ -999,6 +1009,11 @@
       "type": "directory",
       "source": "vehicles/wdw/parkingtram",
       "prefix": "vehicles/wdw/parkingtram/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/railroad",
+      "prefix": "vehicles/wdw/railroad/"
     },
     {
       "type": "directory",
