@@ -232,6 +232,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/cm/uso",
+      "prefix": "clothing/cm/uso/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/dl",
       "prefix": "clothing/dl/"
     },
@@ -339,6 +344,11 @@
       "type": "directory",
       "source": "clothing/uor/simpsonsland",
       "prefix": "clothing/uor/simpsonsland/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/wicked",
+      "prefix": "clothing/wicked/"
     },
     {
       "type": "directory",
