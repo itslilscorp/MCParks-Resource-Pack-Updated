@@ -3004,7 +3004,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/wdw/railroad/mk_passenger",
+                                                                     "model":  "vehicles/wdw/railroad/mk_passenger_red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3019,7 +3019,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/wdw/railroad/mkengine",
+                                                                     "model":  "vehicles/wdw/railroad/wed_mkengine",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3034,7 +3034,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/wdw/railroad/mktender",
+                                                                     "model":  "vehicles/wdw/railroad/mktender_red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3094,7 +3094,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/lb_mkengine",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3109,7 +3109,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/mktender_green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3124,7 +3124,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/reb_mkengine",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3139,7 +3139,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/rod_mkengine",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3154,7 +3154,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/mk_passenger_green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3169,7 +3169,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/mk_passenger_blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3184,7 +3184,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/railroad/mk_passenger_yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
