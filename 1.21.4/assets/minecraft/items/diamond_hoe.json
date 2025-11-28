@@ -16294,7 +16294,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/scrooge_sleepcap_pink",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -16309,7 +16309,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/scroogecandle_silver",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
