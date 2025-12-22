@@ -3199,7 +3199,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/uor/trollercoaster/front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3214,7 +3214,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/uor/trollercoaster/purple_cart",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3229,7 +3229,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/uor/trollercoaster/magenta_cart",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3244,7 +3244,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/uor/trollercoaster/lapbar",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
