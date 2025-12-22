@@ -822,6 +822,11 @@
     },
     {
       "type": "directory",
+      "source": "misc/tron",
+      "prefix": "misc/tron/"
+    },
+    {
+      "type": "directory",
       "source": "misc/wishingwell",
       "prefix": "misc/wishingwell/"
     },
@@ -984,6 +989,16 @@
       "type": "directory",
       "source": "vehicles/teacups",
       "prefix": "vehicles/teacups/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/uor",
+      "prefix": "vehicles/uor/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/uor/trollercoaster",
+      "prefix": "vehicles/uor/trollercoaster/"
     },
     {
       "type": "directory",
