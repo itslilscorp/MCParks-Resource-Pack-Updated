@@ -17,13 +17,13 @@
     },
     {
       "type": "directory",
-      "source": "attractions/dlp/dl",
-      "prefix": "attractions/dlp/dl/"
+      "source": "attractions/dlp/daw",
+      "prefix": "attractions/dlp/daw/"
     },
     {
       "type": "directory",
-      "source": "attractions/dlp/studios",
-      "prefix": "attractions/dlp/studios/"
+      "source": "attractions/dlp/dl",
+      "prefix": "attractions/dlp/dl/"
     },
     {
       "type": "directory",
@@ -167,6 +167,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/cm/dl/carsland",
+      "prefix": "clothing/cm/dl/carsland/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/cm/dlp",
       "prefix": "clothing/cm/dlp/"
     },
@@ -237,6 +242,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/despicableme",
+      "prefix": "clothing/despicableme/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/dl",
       "prefix": "clothing/dl/"
     },
@@ -287,13 +297,23 @@
     },
     {
       "type": "directory",
+      "source": "clothing/insideout",
+      "prefix": "clothing/insideout/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/kbf",
       "prefix": "clothing/kbf/"
     },
     {
       "type": "directory",
-      "source": "clothing/minions",
-      "prefix": "clothing/minions/"
+      "source": "clothing/kbf/cm",
+      "prefix": "clothing/kbf/cm/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/potc",
+      "prefix": "clothing/potc/"
     },
     {
       "type": "directory",
@@ -307,8 +327,18 @@
     },
     {
       "type": "directory",
+      "source": "clothing/sbl",
+      "prefix": "clothing/sbl/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/simpsons",
       "prefix": "clothing/simpsons/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/sleepingbeauty",
+      "prefix": "clothing/sleepingbeauty/"
     },
     {
       "type": "directory",
@@ -324,6 +354,11 @@
       "type": "directory",
       "source": "clothing/uor",
       "prefix": "clothing/uor/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/uor/characters",
+      "prefix": "clothing/uor/characters/"
     },
     {
       "type": "directory",
@@ -682,6 +717,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/shoulder_pets/buzzy",
+      "prefix": "merch/shoulder_pets/buzzy/"
+    },
+    {
+      "type": "directory",
       "source": "merch/tiaras",
       "prefix": "merch/tiaras/"
     },
@@ -709,6 +749,31 @@
       "type": "directory",
       "source": "misc/cars",
       "prefix": "misc/cars/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/cars/lights",
+      "prefix": "misc/cars/lights/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/cars/lights/cone",
+      "prefix": "misc/cars/lights/cone/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/cars/lights/flos_sparkplug",
+      "prefix": "misc/cars/lights/flos_sparkplug/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/cars/lights/lubeorama",
+      "prefix": "misc/cars/lights/lubeorama/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/cars/lights/sparkys",
+      "prefix": "misc/cars/lights/sparkys/"
     },
     {
       "type": "directory",
@@ -764,6 +829,11 @@
       "type": "directory",
       "source": "misc/holiday_decorations",
       "prefix": "misc/holiday_decorations/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/kong",
+      "prefix": "misc/kong/"
     },
     {
       "type": "directory",
@@ -907,8 +977,23 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/dl/luigis",
+      "prefix": "vehicles/dl/luigis/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/dl/parkingtram",
       "prefix": "vehicles/dl/parkingtram/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dl/rsr",
+      "prefix": "vehicles/dl/rsr/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dl/sbl",
+      "prefix": "vehicles/dl/sbl/"
     },
     {
       "type": "directory",
@@ -932,6 +1017,16 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/dlp/cars",
+      "prefix": "vehicles/dlp/cars/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dlp/sbl",
+      "prefix": "vehicles/dlp/sbl/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/dlrr",
       "prefix": "vehicles/dlrr/"
     },
@@ -947,6 +1042,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/knotts/beagle_express",
+      "prefix": "vehicles/knotts/beagle_express/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/knotts/ghostrider",
       "prefix": "vehicles/knotts/ghostrider/"
     },
@@ -954,6 +1054,11 @@
       "type": "directory",
       "source": "vehicles/knotts/ponyexpress",
       "prefix": "vehicles/knotts/ponyexpress/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/knotts/silverbullet",
+      "prefix": "vehicles/knotts/silverbullet/"
     },
     {
       "type": "directory",
@@ -997,6 +1102,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/uor/et",
+      "prefix": "vehicles/uor/et/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/uor/trollercoaster",
       "prefix": "vehicles/uor/trollercoaster/"
     },
@@ -1024,6 +1134,11 @@
       "type": "directory",
       "source": "vehicles/wdw/friendship_boat",
       "prefix": "vehicles/wdw/friendship_boat/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/jc",
+      "prefix": "vehicles/wdw/jc/"
     },
     {
       "type": "directory",
