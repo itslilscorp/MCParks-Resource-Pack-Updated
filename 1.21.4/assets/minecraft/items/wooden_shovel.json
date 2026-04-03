@@ -409,7 +409,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/dlp/studios/park",
+                                                                     "model":  "attractions/dlp/daw/park",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

@@ -199,7 +199,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "item/diamond_hoe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -214,7 +214,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/tdr/sea/peterpan",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1084,7 +1084,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/dlp/studios/carpets",
+                                                                     "model":  "attractions/dlp/daw/carpets",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1099,7 +1099,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/dlp/studios/cars",
+                                                                     "model":  "attractions/dlp/daw/cars",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1114,7 +1114,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/dlp/studios/crush",
+                                                                     "model":  "attractions/dlp/daw/crush",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1129,7 +1129,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/dlp/studios/rat",
+                                                                     "model":  "attractions/dlp/daw/rat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1144,7 +1144,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/dlp/studios/rc",
+                                                                     "model":  "attractions/dlp/daw/rc",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1159,7 +1159,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/dlp/studios/slinky",
+                                                                     "model":  "attractions/dlp/daw/slinky",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1174,7 +1174,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/dlp/studios/soldiers",
+                                                                     "model":  "attractions/dlp/daw/soldiers",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1189,7 +1189,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/dlp/studios/tot",
+                                                                     "model":  "attractions/dlp/daw/tot",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1204,7 +1204,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/dlp/daw/avengers",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1219,7 +1219,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/dlp/daw/frozen",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1234,7 +1234,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/dlp/daw/tangled",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1249,7 +1249,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/dlp/daw/cars_roadtrip",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7414,7 +7414,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/bgt/sf",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7429,7 +7429,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/silverbullet",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7444,7 +7444,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/calicomine",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7459,7 +7459,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/timbermtlog",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7474,7 +7474,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/sierrasidewinder",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7489,7 +7489,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/butterfieldstagecoach",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7504,7 +7504,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/gtacrailroad",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7519,7 +7519,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/supremescream",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7534,7 +7534,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/wipeout",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7549,7 +7549,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/xcelerator",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7564,7 +7564,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/bearytales",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7579,7 +7579,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/wheelerdealer",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7594,7 +7594,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/montezooma",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7609,7 +7609,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/waveswinger",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7624,7 +7624,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/dragonswing",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7639,7 +7639,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/solspin",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7654,7 +7654,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/jaguar",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7669,7 +7669,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/hatdance",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7684,7 +7684,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/larevolucion",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7699,7 +7699,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/carrusel",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7714,7 +7714,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/tenderpawtwister",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7729,7 +7729,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/linuslauncher",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7744,7 +7744,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/offroadrally",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7759,7 +7759,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/pigpenmudbuggie",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7774,7 +7774,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/sallyswing",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -7789,7 +7789,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/flyingace",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8179,7 +8179,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/tdr/sea/bigcityvehicles",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8194,7 +8194,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/tdr/sea/peterpan",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8209,7 +8209,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/tdr/sea/rapunzel",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8224,7 +8224,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/tdr/sea/frozen",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8239,7 +8239,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/tdr/sea/tinkerbell",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8254,7 +8254,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/dlr/dl/walt",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8269,7 +8269,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/dlr/dl/tba",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8284,7 +8284,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/beaglerr",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8299,7 +8299,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/balloonrace",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8314,7 +8314,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/kiteflyer",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8329,7 +8329,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/skycabin",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

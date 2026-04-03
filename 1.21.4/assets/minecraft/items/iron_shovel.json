@@ -439,7 +439,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/iron_shovel",
+                                                                     "model":  "attractions/wdw/mk/tron",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -919,7 +919,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/iron_shovel",
+                                                                     "model":  "attractions/wdw/epcot/gotgcr",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2269,7 +2269,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/iron_shovel",
+                                                                     "model":  "attractions/dlr/dca/cobwebslingers",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

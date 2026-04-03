@@ -5,7 +5,7 @@
                                         "dyeable":  {
 
                                                     },
-                                        "texture":  "minecraft:leather"
+                                        "texture":  "minecraft:leather_cit_base/3355443"
                                     },
                                     {
                                         "texture":  "minecraft:leather_cit/3355443"
@@ -17,6 +17,9 @@
 
                                                              },
                                                  "texture":  "minecraft:leather_cit_base/3355443"
+                                             },
+                                             {
+                                                 "texture":  "minecraft:leather_cit/3355443"
                                              }
                                          ]
                }

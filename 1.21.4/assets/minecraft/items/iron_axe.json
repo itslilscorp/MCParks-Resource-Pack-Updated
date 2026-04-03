@@ -1384,7 +1384,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/jc",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1399,7 +1399,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/jc_wheel",
+                                                                     "model":  "vehicles/wdw/jc/jc_wdw_wheel",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

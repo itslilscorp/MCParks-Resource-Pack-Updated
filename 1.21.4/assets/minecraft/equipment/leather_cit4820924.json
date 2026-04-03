@@ -1,0 +1,26 @@
+{
+    "layers":  {
+                   "humanoid":  [
+                                    {
+                                        "dyeable":  {
+
+                                                    },
+                                        "texture":  "minecraft:leather_cit_base/4820924"
+                                    },
+                                    {
+                                        "texture":  "minecraft:leather_cit/4820924"
+                                    }
+                                ],
+                   "humanoid_leggings":  [
+                                             {
+                                                 "dyeable":  {
+
+                                                             },
+                                                 "texture":  "minecraft:leather_cit_base/4820924"
+                                             },
+                                             {
+                                                 "texture":  "minecraft:leather_cit/4820924"
+                                             }
+                                         ]
+               }
+}

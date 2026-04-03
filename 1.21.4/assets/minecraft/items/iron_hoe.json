@@ -1534,7 +1534,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "merch/hats/glasses/edith",
+                                                                     "model":  "merch/hats/glasses/edith_glasses",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
