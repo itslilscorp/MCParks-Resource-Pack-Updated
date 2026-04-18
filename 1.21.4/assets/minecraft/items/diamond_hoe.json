@@ -18109,7 +18109,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/anniversary/bunting_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -18124,7 +18124,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/anniversary/bunting_2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -18139,7 +18139,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/anniversary/bunting_3",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -18154,7 +18154,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/et/head_noeyes",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -18169,7 +18169,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/snowflakefountain",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -18184,7 +18184,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/prizes/rundisney/rundisneymedal_wdwhalf",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

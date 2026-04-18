@@ -8344,7 +8344,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "shows/magical",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8359,7 +8359,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/dlp/daw/wess",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8374,7 +8374,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/dlp/daw/lion_king",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

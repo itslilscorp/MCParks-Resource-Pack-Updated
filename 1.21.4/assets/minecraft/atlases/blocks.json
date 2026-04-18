@@ -232,6 +232,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/cm/polynesian",
+      "prefix": "clothing/cm/polynesian/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/cm/transportation",
       "prefix": "clothing/cm/transportation/"
     },
