@@ -267,6 +267,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/fairies",
+      "prefix": "clothing/fairies/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/fantasmic",
       "prefix": "clothing/fantasmic/"
     },
@@ -274,6 +279,11 @@
       "type": "directory",
       "source": "clothing/galaxysedge",
       "prefix": "clothing/galaxysedge/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/hea",
+      "prefix": "clothing/hea/"
     },
     {
       "type": "directory",
@@ -687,6 +697,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/hp_wands",
+      "prefix": "merch/hp_wands/"
+    },
+    {
+      "type": "directory",
       "source": "merch/jp",
       "prefix": "merch/jp/"
     },
@@ -977,6 +992,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/dl/dumbo",
+      "prefix": "vehicles/dl/dumbo/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/dl/grr",
       "prefix": "vehicles/dl/grr/"
     },
@@ -984,6 +1004,11 @@
       "type": "directory",
       "source": "vehicles/dl/luigis",
       "prefix": "vehicles/dl/luigis/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dl/palaround",
+      "prefix": "vehicles/dl/palaround/"
     },
     {
       "type": "directory",
@@ -1112,6 +1137,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/uor/sr",
+      "prefix": "vehicles/uor/sr/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/uor/trollercoaster",
       "prefix": "vehicles/uor/trollercoaster/"
     },
@@ -1129,6 +1159,11 @@
       "type": "directory",
       "source": "vehicles/wdw",
       "prefix": "vehicles/wdw/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/dumbo",
+      "prefix": "vehicles/wdw/dumbo/"
     },
     {
       "type": "directory",
