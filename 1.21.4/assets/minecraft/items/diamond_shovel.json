@@ -7609,7 +7609,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "attractions/knotts/waveswinger",
+                                                                     "model":  "attractions/knotts/losvoladores",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8389,7 +8389,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/hangtime",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8404,7 +8404,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/surfgliders",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8419,7 +8419,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/pacificscrambler",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8434,7 +8434,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/coastrider",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

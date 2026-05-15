@@ -3889,7 +3889,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/magenta_dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3904,7 +3904,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/red_dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3919,7 +3919,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/orange_dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3934,7 +3934,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/yellow_dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3949,7 +3949,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/green_dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3964,7 +3964,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/turquoise_dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3979,7 +3979,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/blue_dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3994,7 +3994,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/purple_dl",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4009,7 +4009,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/magenta_wdw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4024,7 +4024,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/red_wdw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4039,7 +4039,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/orange_wdw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4054,7 +4054,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/yellow_wdw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4069,7 +4069,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/lime_wdw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4084,7 +4084,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/blue_wdw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4099,7 +4099,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/lightblue_wdw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4114,7 +4114,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/purple_wdw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
