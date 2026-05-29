@@ -1,1 +1,1 @@
-{"parent":"misc/cars/filmore","textures":{"0":"misc/cars/filmore","2":"misc/transparent","3":"misc/cars/filmore_mouth_1","particle":"misc/cars/filmore"}}
+{"parent":"misc/cars/filmore","textures":{"0":"block/mcparks_custom/misc/cars/filmore","2":"block/mcparks_custom/misc/transparent","3":"block/mcparks_custom/misc/cars/filmore_mouth_1","particle":"block/mcparks_custom/misc/cars/filmore"}}

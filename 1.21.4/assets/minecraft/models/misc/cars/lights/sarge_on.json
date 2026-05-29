@@ -1,1 +1,1 @@
-{"parent":"misc/cars/lights/sarge_off","format_version":"1.9.0","credit":"made with kingshephard using blockbench","texture_size":[128,128],"textures":{"0":"misc/cars/lights/sarge_on","particle":"misc/cars/lights/sarge_on"}}
+{"parent":"misc/cars/lights/sarge_off","format_version":"1.9.0","credit":"made with kingshephard using blockbench","texture_size":[128,128],"textures":{"0":"block/mcparks_custom/misc/cars/lights/sarge_on","particle":"block/mcparks_custom/misc/cars/lights/sarge_on"}}

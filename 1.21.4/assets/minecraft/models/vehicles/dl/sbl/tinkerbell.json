@@ -1,1 +1,1 @@
-{"parent":"vehicles/dl/sbl/merryweather","textures":{"0":"vehicles/dl/sbl/tinkerbell","4":"vehicles/dl/sbl/tinkerbell_text","8":"misc/transparent2","particle":"vehicles/dl/sbl/tinkerbell"}}
+{"parent":"vehicles/dl/sbl/merryweather","textures":{"0":"block/mcparks_custom/vehicles/dl/sbl/tinkerbell","4":"block/mcparks_custom/vehicles/dl/sbl/tinkerbell_text","8":"block/mcparks_custom/misc/transparent2","particle":"block/mcparks_custom/vehicles/dl/sbl/tinkerbell"}}

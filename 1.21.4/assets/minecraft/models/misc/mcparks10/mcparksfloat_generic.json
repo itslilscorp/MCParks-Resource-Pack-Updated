@@ -1,1 +1,1 @@
-{"parent":"misc/mcparks10/mcparksfloat","textures":{"0":"misc/mcparks10/mcparksfloat","1":"misc/mcparks10/mcparksfloatlogo_generic","2":"misc/mcparks10/mcparksfloatlayers","particle":"misc/mcparks10/mcparksfloat"}}
+{"parent":"misc/mcparks10/mcparksfloat","textures":{"0":"block/mcparks_custom/misc/mcparks10/mcparksfloat","1":"block/mcparks_custom/misc/mcparks10/mcparksfloatlogo_generic","2":"block/mcparks_custom/misc/mcparks10/mcparksfloatlayers","particle":"block/mcparks_custom/misc/mcparks10/mcparksfloat"}}

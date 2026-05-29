@@ -1,1 +1,1 @@
-{"parent":"models/vehicles/knotts/rmtc_green","textures":{"1":"vehicles/knotts/rmtc_green","particle":"vehicles/knotts/rmtc_green"}}
+{"parent":"models/vehicles/knotts/rmtc_green","textures":{"1":"block/mcparks_custom/vehicles/knotts/rmtc_green","particle":"block/mcparks_custom/vehicles/knotts/rmtc_green"}}

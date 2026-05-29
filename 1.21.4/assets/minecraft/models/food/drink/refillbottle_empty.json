@@ -1,1 +1,1 @@
-{"parent":"food/drink/refillbottle","textures":{"0":"food/drink/refillbottle-empty","particle":"food/drink/refillbottle-empty"}}
+{"parent":"food/drink/refillbottle","textures":{"0":"block/mcparks_custom/food/drink/refillbottle-empty","particle":"block/mcparks_custom/food/drink/refillbottle-empty"}}

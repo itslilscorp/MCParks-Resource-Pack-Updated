@@ -1,1 +1,1 @@
-{"parent":"vehicles/vb/innertube-blue","textures":{"0":"vehicles/vb/innertube-green","particle":"vehicles/vb/innertube-green"}}
+{"parent":"vehicles/vb/innertube-blue","textures":{"0":"block/mcparks_custom/vehicles/vb/innertube-green","particle":"block/mcparks_custom/vehicles/vb/innertube-green"}}

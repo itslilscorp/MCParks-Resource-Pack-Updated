@@ -1,1 +1,1 @@
-{"parent":"vehicles/dlp/sbl/clochette","textures":{"0":"vehicles/dlp/sbl/blancheneige","particle":"vehicles/dlp/sbl/blancheneige"}}
+{"parent":"vehicles/dlp/sbl/clochette","textures":{"0":"block/mcparks_custom/vehicles/dlp/sbl/blancheneige","particle":"block/mcparks_custom/vehicles/dlp/sbl/blancheneige"}}

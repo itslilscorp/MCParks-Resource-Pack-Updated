@@ -467,6 +467,21 @@
     },
     {
       "type": "directory",
+      "source": "documents",
+      "prefix": "documents/"
+    },
+    {
+      "type": "directory",
+      "source": "documents/mcparks",
+      "prefix": "documents/mcparks/"
+    },
+    {
+      "type": "directory",
+      "source": "documents/mcparks/block",
+      "prefix": "documents/mcparks/block/"
+    },
+    {
+      "type": "directory",
       "source": "entity",
       "prefix": "entity/"
     },
@@ -492,8 +507,18 @@
     },
     {
       "type": "directory",
+      "source": "entity/iron_golem",
+      "prefix": "entity/iron_golem/"
+    },
+    {
+      "type": "directory",
       "source": "entity/parrot",
       "prefix": "entity/parrot/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/squid",
+      "prefix": "entity/squid/"
     },
     {
       "type": "directory",
@@ -692,6 +717,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/horse",
+      "prefix": "merch/horse/"
+    },
+    {
+      "type": "directory",
       "source": "merch/horses",
       "prefix": "merch/horses/"
     },
@@ -742,8 +772,18 @@
     },
     {
       "type": "directory",
+      "source": "merch/spiderbots",
+      "prefix": "merch/spiderbots/"
+    },
+    {
+      "type": "directory",
       "source": "merch/tiaras",
       "prefix": "merch/tiaras/"
+    },
+    {
+      "type": "directory",
+      "source": "merch/toys",
+      "prefix": "merch/toys/"
     },
     {
       "type": "directory",
@@ -884,6 +924,11 @@
       "type": "directory",
       "source": "misc/modelpalooza",
       "prefix": "misc/modelpalooza/"
+    },
+    {
+      "type": "directory",
+      "source": "misc/modelpalooza/churros",
+      "prefix": "misc/modelpalooza/churros/"
     },
     {
       "type": "directory",
@@ -1109,6 +1154,11 @@
       "type": "directory",
       "source": "vehicles/skyliner",
       "prefix": "vehicles/skyliner/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/speedway",
+      "prefix": "vehicles/speedway/"
     },
     {
       "type": "directory",

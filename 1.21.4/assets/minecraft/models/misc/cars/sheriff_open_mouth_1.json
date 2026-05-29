@@ -1,1 +1,1 @@
-{"parent":"misc/cars/sheriff_new","textures":{"0":"misc/cars/sheriff_new","1":"misc/transparent","2":"misc/cars/sheriff_open_mouth_1","3":"misc/transparent2","particle":"misc/cars/sheriff_new"}}
+{"parent":"misc/cars/sheriff_new","textures":{"0":"block/mcparks_custom/misc/cars/sheriff_new","1":"block/mcparks_custom/misc/transparent","2":"block/mcparks_custom/misc/cars/sheriff_open_mouth_1","3":"block/mcparks_custom/misc/transparent2","particle":"block/mcparks_custom/misc/cars/sheriff_new"}}

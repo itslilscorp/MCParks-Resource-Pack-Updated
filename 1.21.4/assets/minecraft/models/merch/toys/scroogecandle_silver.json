@@ -1,1 +1,1 @@
-{"parent":"merch/toys/scroogecandle","textures":{"1":"merch/candles/scroogecandle_silver","2":"merch/candles/menorah_candles_lit","particle":"merch/candles/scroogecandle"}}
+{"parent":"merch/toys/scroogecandle","textures":{"1":"block/mcparks_custom/merch/candles/scroogecandle_silver","2":"block/mcparks_custom/merch/candles/menorah_candles_lit","particle":"block/mcparks_custom/merch/candles/scroogecandle"}}

@@ -1,1 +1,1 @@
-{"parent":"merch/hats/misc/mcparks12_buckethat","textures":{"0":"merch/mcparks10/mcparks13_buckethat","1":"misc/mcparks10/mcparks13_transparent","particle":"merch/mcparks10/mcparks13_buckethat"}}
+{"parent":"merch/hats/misc/mcparks12_buckethat","textures":{"0":"block/mcparks_custom/merch/mcparks10/mcparks13_buckethat","1":"block/mcparks_custom/misc/mcparks10/mcparks13_transparent","particle":"block/mcparks_custom/merch/mcparks10/mcparks13_buckethat"}}

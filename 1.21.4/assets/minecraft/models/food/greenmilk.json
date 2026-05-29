@@ -1,1 +1,1 @@
-{"parent":"food/bluemilk","textures":{"0":"food/gemilk_green","particle":"food/gemilk_green"}}
+{"parent":"food/bluemilk","textures":{"0":"block/mcparks_custom/food/gemilk_green","particle":"block/mcparks_custom/food/gemilk_green"}}

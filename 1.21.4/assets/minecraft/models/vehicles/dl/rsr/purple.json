@@ -1,1 +1,1 @@
-{"parent":"vehicles/dl/rsr/red","textures":{"0":"vehicles/dl/rsr/purple","1":"vehicles/dl/rsr/purple2","2":"vehicles/dl/rsr/floor","3":"vehicles/dl/rsr/floor2","particle":"vehicles/dl/rsr/purple"}}
+{"parent":"vehicles/dl/rsr/red","textures":{"0":"block/mcparks_custom/vehicles/dl/rsr/purple","1":"block/mcparks_custom/vehicles/dl/rsr/purple2","2":"block/mcparks_custom/vehicles/dl/rsr/floor","3":"block/mcparks_custom/vehicles/dl/rsr/floor2","particle":"block/mcparks_custom/vehicles/dl/rsr/purple"}}

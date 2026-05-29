@@ -1,1 +1,1 @@
-{"parent":"vehicles/skyliner/mickeyandfriends","textures":{"trim":"block/white_terracotta","body":"block/blue_concrete","texture1":"vehicles/skyliner/leota","texture2":"vehicles/skyliner/hitchhikers","texture3":"vehicles/skyliner/coffin"}}
+{"parent":"vehicles/skyliner/mickeyandfriends","textures":{"trim":"block/white_terracotta","body":"block/blue_concrete","texture1":"block/mcparks_custom/vehicles/skyliner/leota","texture2":"block/mcparks_custom/vehicles/skyliner/hitchhikers","texture3":"block/mcparks_custom/vehicles/skyliner/coffin"}}

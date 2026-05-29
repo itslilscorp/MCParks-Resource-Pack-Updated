@@ -1,1 +1,1 @@
-{"parent":"misc/cars/lights/lubeorama_off","texture_size":[64,64],"textures":{"0":"misc/cars/lights/lubeorama/lor_on","1":"misc/cars/lights/lubeorama/light_on","particle":"misc/cars/lights/lubeorama/lor_on"}}
+{"parent":"misc/cars/lights/lubeorama_off","texture_size":[64,64],"textures":{"0":"block/mcparks_custom/misc/cars/lights/lubeorama/lor_on","1":"block/mcparks_custom/misc/cars/lights/lubeorama/light_on","particle":"block/mcparks_custom/misc/cars/lights/lubeorama/lor_on"}}

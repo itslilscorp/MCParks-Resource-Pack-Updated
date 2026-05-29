@@ -4,12 +4,27 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/wooden_shovel",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
                                                                      "model":  "attractions/wdw/park",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -24,7 +39,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -39,7 +54,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -54,7 +69,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -69,7 +84,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -84,7 +99,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -99,7 +114,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -114,7 +129,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -129,7 +144,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -144,7 +159,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -159,7 +174,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -174,7 +189,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -189,7 +204,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -204,7 +219,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -219,7 +234,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -234,7 +249,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -249,7 +264,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -264,7 +279,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -279,7 +294,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -294,7 +309,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -309,7 +324,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -324,7 +339,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -339,7 +354,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -354,7 +369,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -369,7 +384,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -384,7 +399,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -399,7 +414,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -414,7 +429,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -429,7 +444,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -444,7 +459,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -459,7 +474,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -474,7 +489,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -489,7 +504,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -504,7 +519,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -519,7 +534,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -534,7 +549,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -549,7 +564,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -564,7 +579,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -579,7 +594,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -594,7 +609,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -609,7 +624,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -624,7 +639,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -639,7 +654,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -654,7 +669,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -669,7 +684,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -684,7 +699,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -699,7 +714,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -714,7 +729,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -729,7 +744,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -744,7 +759,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -759,7 +774,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -774,7 +789,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -789,7 +804,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -804,7 +819,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -819,7 +834,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -834,7 +849,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -849,7 +864,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -864,7 +879,7 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
@@ -879,17 +894,32 @@
                                                                  },
                                                     "property":  "damaged",
                                                     "on_true":  {
-                                                                    "model":  "item/handheld",
+                                                                    "model":  "item/wooden_shovel",
                                                                     "type":  "model"
                                                                 },
                                                     "type":  "condition"
                                                 },
                                       "threshold":  0.9833333333333333
+                                  },
+                                  {
+                                      "model":  {
+                                                    "on_false":  {
+                                                                     "model":  "item/wooden_shovel",
+                                                                     "type":  "model"
+                                                                 },
+                                                    "property":  "damaged",
+                                                    "on_true":  {
+                                                                    "model":  "item/wooden_shovel",
+                                                                    "type":  "model"
+                                                                },
+                                                    "type":  "condition"
+                                                },
+                                      "threshold":  0
                                   }
                               ],
                   "property":  "damage",
                   "fallback":  {
-                                   "model":  "item/handheld",
+                                   "model":  "item/wooden_shovel",
                                    "type":  "model"
                                },
                   "type":  "range_dispatch"

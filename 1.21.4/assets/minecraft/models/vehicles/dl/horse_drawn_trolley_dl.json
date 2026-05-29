@@ -1,1 +1,1 @@
-{"format_version":"1.9.0","parent":"vehicles/wdw/horse_drawn_trolley_wdw","credit":"made  by  pacmancool6754","texture_size":[64,64],"textures":{"2":"vehicles/dl/trolley_main_dl","4":"vehicles/dl/trolley_details_dl"}}
+{"format_version":"1.9.0","parent":"vehicles/wdw/horse_drawn_trolley_wdw","credit":"made  by  pacmancool6754","texture_size":[64,64],"textures":{"2":"block/mcparks_custom/vehicles/dl/trolley_main_dl","4":"block/mcparks_custom/vehicles/dl/trolley_details_dl"}}

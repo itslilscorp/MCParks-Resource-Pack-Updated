@@ -1,1 +1,1 @@
-{"parent":"misc/ge/droids/bdx/blue_body","credit":"made with blockbench, by kingshephard","texture_size":[32,32],"textures":{"0":"misc/ge/bdx/bdx_orange","particle":"misc/ge/bdx/bdx_orange"}}
+{"parent":"misc/ge/droids/bdx/blue_body","credit":"made with blockbench, by kingshephard","texture_size":[32,32],"textures":{"0":"block/mcparks_custom/misc/ge/bdx/bdx_orange","particle":"block/mcparks_custom/misc/ge/bdx/bdx_orange"}}

@@ -1,1 +1,1 @@
-{"parent":"vehicles/wdw/friendship_boat/friendship_back_yellow","textures":{"0":"vehicles/wdw/friendship_boat/friendship_yellow","1":"vehicles/wdw/friendship_boat/orange_outside","particle":"vehicles/wdw/friendship_boat/friendship_orange"}}
+{"parent":"vehicles/wdw/friendship_boat/friendship_back_yellow","textures":{"0":"block/mcparks_custom/vehicles/wdw/friendship_boat/friendship_yellow","1":"block/mcparks_custom/vehicles/wdw/friendship_boat/orange_outside","particle":"block/mcparks_custom/vehicles/wdw/friendship_boat/friendship_orange"}}

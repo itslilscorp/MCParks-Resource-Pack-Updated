@@ -1,0 +1,14 @@
+{
+	"format_version": "1.21.11",
+	"credit": "made with blockbench",
+	"parent": "item/generated",
+	"textures":{
+		"layer0":"item/filled_map",
+		"layer1":"item/filled_map_markings"
+	},
+	"display": {
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

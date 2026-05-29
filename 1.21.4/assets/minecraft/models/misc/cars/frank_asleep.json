@@ -1,1 +1,1 @@
-{"parent":"misc/cars/frank","textures":{"0":"misc/cars/frank_asleep","1":"misc/cars/frank_blade_dark","particle":"misc/cars/frank"}}
+{"parent":"misc/cars/frank","textures":{"0":"block/mcparks_custom/misc/cars/frank_asleep","1":"block/mcparks_custom/misc/cars/frank_blade_dark","particle":"block/mcparks_custom/misc/cars/frank"}}

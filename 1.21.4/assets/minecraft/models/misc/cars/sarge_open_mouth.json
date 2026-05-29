@@ -1,1 +1,1 @@
-{"parent":"misc/cars/sarge","textures":{"0":"misc/cars/sarge","1":"misc/transparent","2":"misc/cars/sarge_open_mouth_1","particle":"misc/cars/sarge"}}
+{"parent":"misc/cars/sarge","textures":{"0":"block/mcparks_custom/misc/cars/sarge","1":"block/mcparks_custom/misc/transparent","2":"block/mcparks_custom/misc/cars/sarge_open_mouth_1","particle":"block/mcparks_custom/misc/cars/sarge"}}

@@ -1,1 +1,1 @@
-{"parent":"vehicles/dl/sbl/merryweather","textures":{"0":"vehicles/dl/sbl/fauna","4":"misc/transparent","8":"misc/transparent2","particle":"vehicles/dl/sbl/fauna"}}
+{"parent":"vehicles/dl/sbl/merryweather","textures":{"0":"block/mcparks_custom/vehicles/dl/sbl/fauna","4":"block/mcparks_custom/misc/transparent","8":"block/mcparks_custom/misc/transparent2","particle":"block/mcparks_custom/vehicles/dl/sbl/fauna"}}

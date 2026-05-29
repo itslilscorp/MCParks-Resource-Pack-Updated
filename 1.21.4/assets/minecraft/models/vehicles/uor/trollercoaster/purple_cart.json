@@ -1,1 +1,1 @@
-{"parent":"vehicles/uor/trollercoaster/magenta_cart","textures":{"0":"vehicles/uor/trollercoaster/floor","1":"vehicles/uor/trollercoaster/purple","2":"vehicles/uor/trollercoaster/purple","particle":"vehicles/uor/trollercoaster/purple"}}
+{"parent":"vehicles/uor/trollercoaster/magenta_cart","textures":{"0":"block/mcparks_custom/vehicles/uor/trollercoaster/floor","1":"block/mcparks_custom/vehicles/uor/trollercoaster/purple","2":"block/mcparks_custom/vehicles/uor/trollercoaster/purple","particle":"block/mcparks_custom/vehicles/uor/trollercoaster/purple"}}

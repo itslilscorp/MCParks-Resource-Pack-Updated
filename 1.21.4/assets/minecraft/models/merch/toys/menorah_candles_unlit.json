@@ -1,1 +1,1 @@
-{"parent":"merch/toys/menorah_candles_lit","textures":{"0":"merch/candles/menorah","1":"misc/transparent2","particle":"merch/toys/menorah_candles_lit"}}
+{"parent":"merch/toys/menorah_candles_lit","textures":{"0":"block/mcparks_custom/merch/candles/menorah","1":"block/mcparks_custom/misc/transparent2","particle":"block/mcparks_custom/merch/toys/menorah_candles_lit"}}

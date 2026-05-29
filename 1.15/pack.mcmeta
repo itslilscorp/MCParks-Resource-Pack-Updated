@@ -1,9 +1,12 @@
 {
-  "pack": {
-    "pack_format": 5,
-    "description": "MCParks Resource Pack v1.12_164"
-  },
-  "meta": {
-    "game_version": "1.15.2"
-  }
+    "pack":  {
+                 "pack_format":  5,
+                 "supported_formats":  [
+                                           5,
+                                           5
+                                       ],
+                 "min_format":  5,
+                 "max_format":  5,
+                 "description":  "MCParks Resource Pack v1.12_164"
+             }
 }

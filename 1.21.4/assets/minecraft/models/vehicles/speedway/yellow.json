@@ -1,1 +1,1 @@
-{"parent":"vehicles/speedway/lime","textures":{"0":"vehicles/wdw/speedway/yellow","particle":"vehicles/speedway/yellow"}}
+{"parent":"vehicles/speedway/lime","textures":{"0":"block/mcparks_custom/vehicles/wdw/speedway/yellow","particle":"block/mcparks_custom/vehicles/speedway/yellow"}}
