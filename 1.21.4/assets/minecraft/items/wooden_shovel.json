@@ -814,7 +814,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/backpack",
+                                                                     "model":  "item/wooden_shovel",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

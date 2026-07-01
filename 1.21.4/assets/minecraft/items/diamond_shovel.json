@@ -2269,7 +2269,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "magicbands/taputapu/aqua",
+                                                                     "model":  "magicbands/taputapu/taputapu-laugreen",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2284,7 +2284,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "magicbands/taputapu/blue",
+                                                                     "model":  "magicbands/taputapu/taputapu-kaiblue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2299,7 +2299,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "magicbands/taputapu/orange",
+                                                                     "model":  "magicbands/taputapu/taputapu-pohakubrown",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2314,7 +2314,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "magicbands/taputapu/yellow",
+                                                                     "model":  "magicbands/taputapu/taputapu-welayellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5404,7 +5404,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/hm/jackportrait",
+                                                                     "model":  "misc/hm/stretching_room_ghosts",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5419,7 +5419,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/hm/snakeportrait",
+                                                                     "model":  "misc/hm/stretching_room_snake",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5434,7 +5434,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/hm/vampireportrait",
+                                                                     "model":  "misc/hm/stretching_room_vampire",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5449,7 +5449,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/hm/wreathportrait",
+                                                                     "model":  "misc/hm/stretching_room_wreath",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -6874,7 +6874,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/anyonecancook",
+                                                                     "model":  "books/anyonecancook",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8449,7 +8449,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "books/beedlethebard",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

@@ -154,7 +154,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "magicbands/babyyodapram",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -1849,7 +1849,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "magicbands/foj",
+                                                                     "model":  "magicbands/4thofjuly",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2014,7 +2014,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "merch/hats/ears/misc/graduation",
+                                                                     "model":  "merch/hats/ears/misc/graduation2019",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

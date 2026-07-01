@@ -122,6 +122,11 @@
     },
     {
       "type": "directory",
+      "source": "books/gravityfallsjournal",
+      "prefix": "books/gravityfallsjournal/"
+    },
+    {
+      "type": "directory",
       "source": "clothing",
       "prefix": "clothing/"
     },
@@ -324,6 +329,11 @@
       "type": "directory",
       "source": "clothing/kbf/cm",
       "prefix": "clothing/kbf/cm/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/muppets",
+      "prefix": "clothing/muppets/"
     },
     {
       "type": "directory",
@@ -667,6 +677,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/disney_channel_wand",
+      "prefix": "merch/disney_channel_wand/"
+    },
+    {
+      "type": "directory",
       "source": "merch/ears",
       "prefix": "merch/ears/"
     },
@@ -749,6 +764,11 @@
       "type": "directory",
       "source": "merch/mummy",
       "prefix": "merch/mummy/"
+    },
+    {
+      "type": "directory",
+      "source": "merch/owlhouse",
+      "prefix": "merch/owlhouse/"
     },
     {
       "type": "directory",
@@ -1062,6 +1082,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/dl/ppf",
+      "prefix": "vehicles/dl/ppf/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/dl/rsr",
       "prefix": "vehicles/dl/rsr/"
     },
@@ -1127,6 +1152,16 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/knotts/mudbuggies",
+      "prefix": "vehicles/knotts/mudbuggies/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/knotts/offroadrally",
+      "prefix": "vehicles/knotts/offroadrally/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/knotts/ponyexpress",
       "prefix": "vehicles/knotts/ponyexpress/"
     },
@@ -1139,6 +1174,11 @@
       "type": "directory",
       "source": "vehicles/knotts/xcelerator",
       "prefix": "vehicles/knotts/xcelerator/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/omnibus",
+      "prefix": "vehicles/omnibus/"
     },
     {
       "type": "directory",
@@ -1227,8 +1267,18 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/wdw/gotg",
+      "prefix": "vehicles/wdw/gotg/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/wdw/jc",
       "prefix": "vehicles/wdw/jc/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/jitney",
+      "prefix": "vehicles/wdw/jitney/"
     },
     {
       "type": "directory",
@@ -1244,6 +1294,11 @@
       "type": "directory",
       "source": "vehicles/wdw/railroad",
       "prefix": "vehicles/wdw/railroad/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/rrc",
+      "prefix": "vehicles/wdw/rrc/"
     },
     {
       "type": "directory",

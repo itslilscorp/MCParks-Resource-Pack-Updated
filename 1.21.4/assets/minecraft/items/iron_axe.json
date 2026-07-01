@@ -3244,7 +3244,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/ppf_dl_yellow",
+                                                                     "model":  "vehicles/dl/ppf/yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3259,7 +3259,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/ppf_dl_green",
+                                                                     "model":  "vehicles/dl/ppf/green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3274,7 +3274,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/ppf_dl_blue",
+                                                                     "model":  "vehicles/dl/ppf/blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

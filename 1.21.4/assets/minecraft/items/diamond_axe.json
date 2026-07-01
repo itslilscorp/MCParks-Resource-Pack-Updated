@@ -769,7 +769,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/story_boat",
+                                                                     "model":  "item/diamond_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4129,7 +4129,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/arm_dl_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4144,7 +4144,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/arm_dl_2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4159,7 +4159,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/arm_wdw_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4174,7 +4174,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/arm_wdw_2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4189,7 +4189,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/newdumbo/lever",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4204,7 +4204,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/omnibus_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4219,7 +4219,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/omnibus_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4234,7 +4234,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/omnibus_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4249,7 +4249,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/omnibus_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4264,7 +4264,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/omnibus_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4279,7 +4279,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/omnibus_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4294,7 +4294,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/tdl/omnibus_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4309,7 +4309,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/tdl/omnibus_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4324,7 +4324,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/sbl/flora",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4339,7 +4339,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/mudbuggies/yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4354,7 +4354,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/mudbuggies/orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4369,7 +4369,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/mudbuggies/arm",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4384,7 +4384,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/offroadrally/snoopy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4399,7 +4399,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/offroadrally/charlie",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4414,7 +4414,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/offroadrally/patty",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4429,7 +4429,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/offroadrally/linus",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4444,7 +4444,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/offroadrally/lucy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4459,7 +4459,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/offroadrally/franklin",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
