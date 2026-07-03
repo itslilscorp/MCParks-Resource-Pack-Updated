@@ -257,6 +257,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/disneychannel",
+      "prefix": "clothing/disneychannel/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/dl",
       "prefix": "clothing/dl/"
     },

@@ -19924,7 +19924,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/4th_of_july/lightpole_usa_banner",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -19939,7 +19939,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/holiday_decorations/4th_of_july/lightpole_usa_hop_banner",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -19954,7 +19954,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/prizes/mic_disneychannel",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -19969,7 +19969,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/prizes/mic_hannahmontana",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
