@@ -19339,7 +19339,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "books/little_man_of_disneyland_book",
+                                                                     "model":  "books/little_man_of_disneyland",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -19984,7 +19984,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/reubenplush",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -19999,7 +19999,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/discoball",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -20014,7 +20014,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/angelplush",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

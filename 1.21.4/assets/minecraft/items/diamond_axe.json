@@ -4474,7 +4474,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/triceratopspin",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4489,7 +4489,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/ts_arm_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4504,7 +4504,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/ts_arm_2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
