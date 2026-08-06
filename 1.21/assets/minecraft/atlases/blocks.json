@@ -112,6 +112,11 @@
     },
     {
       "type": "directory",
+      "source": "backpacks/portahooty",
+      "prefix": "backpacks/portahooty/"
+    },
+    {
+      "type": "directory",
       "source": "block",
       "prefix": "block/"
     },
@@ -582,6 +587,11 @@
     },
     {
       "type": "directory",
+      "source": "food/icecream",
+      "prefix": "food/icecream/"
+    },
+    {
+      "type": "directory",
       "source": "food/mcparks10",
       "prefix": "food/mcparks10/"
     },
@@ -982,6 +992,11 @@
     },
     {
       "type": "directory",
+      "source": "misc/tianabayou",
+      "prefix": "misc/tianabayou/"
+    },
+    {
+      "type": "directory",
       "source": "misc/tron",
       "prefix": "misc/tron/"
     },
@@ -1062,6 +1077,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/dl/caseyjr",
+      "prefix": "vehicles/dl/caseyjr/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/dl/dumbo",
       "prefix": "vehicles/dl/dumbo/"
     },
@@ -1124,6 +1144,11 @@
       "type": "directory",
       "source": "vehicles/dlp/cars",
       "prefix": "vehicles/dlp/cars/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dlp/caseyjr",
+      "prefix": "vehicles/dlp/caseyjr/"
     },
     {
       "type": "directory",
@@ -1284,6 +1309,11 @@
       "type": "directory",
       "source": "vehicles/wdw/jitney",
       "prefix": "vehicles/wdw/jitney/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/mk_ferries",
+      "prefix": "vehicles/wdw/mk_ferries/"
     },
     {
       "type": "directory",

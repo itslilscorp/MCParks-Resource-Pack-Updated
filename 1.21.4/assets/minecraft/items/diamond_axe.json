@@ -4519,7 +4519,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/caseyjr_new/caseyjr",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4534,7 +4534,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/caseyjr_new/engine",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4549,7 +4549,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/caseyjr_new/pink",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4564,7 +4564,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/caseyjr_new/blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4579,7 +4579,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/caseyjr_new/orange_cage",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4594,7 +4594,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/caseyjr_new/pink_cage",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4609,7 +4609,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/caseyjr_new/caboose",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4624,7 +4624,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/mk_ferries/ttc_1_1",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4639,7 +4639,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/mk_ferries/ttc_1_2",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4654,7 +4654,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/mk_ferries/ttc_1_3",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4669,7 +4669,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/mk_ferries/ttc_1_4",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4684,7 +4684,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/mk_ferries/ttc_1_5",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4699,7 +4699,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/caseyjr/casey",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4714,7 +4714,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/caseyjr/blue_cart",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4729,7 +4729,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/caseyjr/purple_cart",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4744,7 +4744,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/caseyjr/orange_cage",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4759,7 +4759,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/caseyjr/blue_cage",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4774,7 +4774,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dlp/caseyjr/caboose",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

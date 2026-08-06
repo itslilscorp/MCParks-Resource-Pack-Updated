@@ -1,1 +1,1 @@
-{"parent":"food/icecream_chocolate","textures":{"0":"block/sand","2":"block/brown_concrete","3":"block/pink_concrete","particle":"block/sand"}}
+{"parent":"food/icecream_chocolate","textures":{"0":"block/mcparks_custom/food/icecream/cone","1":"block/mcparks_custom/food/icecream/strawberry","2":"block/mcparks_custom/food/icecream/ears","particle":"block/mcparks_custom/food/icecream/cone"}}
