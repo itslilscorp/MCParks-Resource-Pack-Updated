@@ -1,1 +1,1 @@
-{"parent":"food/starbucks_cup","textures":{"2":"food/starbucks_cup_2"}}
+{"parent":"food/starbucks_cup","textures":{"0":"food/starbucks/holiday","1":"food/starbucks/label_holiday","2":"food/starbucks/snowflake","3":"food/starbucks_cup_1","particle":"food/starbucks/label"}}

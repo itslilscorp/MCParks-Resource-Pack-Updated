@@ -2254,7 +2254,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr/engine",
+                                                                     "model":  "vehicles/dl/alice/pink_purple",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2269,7 +2269,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr/train",
+                                                                     "model":  "vehicles/dl/alice/pink_pink",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2284,7 +2284,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr/blue",
+                                                                     "model":  "vehicles/dl/alice/teal_blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2299,7 +2299,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr/pink",
+                                                                     "model":  "vehicles/dl/alice/teal_green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2314,7 +2314,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr/pinkcart",
+                                                                     "model":  "vehicles/dl/alice/beige_green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -2329,7 +2329,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr/orangecart",
+                                                                     "model":  "vehicles/dl/alice/beige_orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -3709,7 +3709,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr/caboose",
+                                                                     "model":  "item/iron_axe",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

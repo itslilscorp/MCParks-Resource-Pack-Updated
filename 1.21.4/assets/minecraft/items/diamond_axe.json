@@ -4519,7 +4519,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr_new/caseyjr",
+                                                                     "model":  "vehicles/dl/caseyjr/caseyjr",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4534,7 +4534,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr_new/engine",
+                                                                     "model":  "vehicles/dl/caseyjr/engine",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4549,7 +4549,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr_new/pink",
+                                                                     "model":  "vehicles/dl/caseyjr/pink",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4564,7 +4564,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr_new/blue",
+                                                                     "model":  "vehicles/dl/caseyjr/blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4579,7 +4579,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr_new/orange_cage",
+                                                                     "model":  "vehicles/dl/caseyjr/orange_cage",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4594,7 +4594,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr_new/pink_cage",
+                                                                     "model":  "vehicles/dl/caseyjr/pink_cage",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4609,7 +4609,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/dl/caseyjr_new/caboose",
+                                                                     "model":  "vehicles/dl/caseyjr/caboose",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4789,7 +4789,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/holiday_decorations/halloween/pumpkinhead_mickey",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4804,7 +4804,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/holiday_decorations/halloween/pumpkinhead_minnie",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4819,7 +4819,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/holiday_decorations/halloween/pumpkinhead_donald",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4834,7 +4834,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/holiday_decorations/halloween/pumpkinhead_goofy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4849,7 +4849,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "misc/holiday_decorations/halloween/pumpkinhead_pluto",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4864,7 +4864,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/iasw/dl_iasw_blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4879,7 +4879,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/iasw/dl_iasw_red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4894,7 +4894,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/dl/dl_potc",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4909,7 +4909,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/wdw_potc",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4924,7 +4924,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/iasw/wdw_iasw_blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4939,7 +4939,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/iasw/wdw_iasw_yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4954,7 +4954,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/iasw/wdw_iasw_green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4969,7 +4969,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/iasw/wdw_iasw_coral",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4984,7 +4984,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/wdw/gft",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

@@ -152,6 +152,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/cinderella",
+      "prefix": "clothing/cinderella/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/cm",
       "prefix": "clothing/cm/"
     },
@@ -179,6 +184,11 @@
       "type": "directory",
       "source": "clothing/cm/dl/carsland",
       "prefix": "clothing/cm/dl/carsland/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/cm/dl/mainstreet",
+      "prefix": "clothing/cm/dl/mainstreet/"
     },
     {
       "type": "directory",
@@ -272,6 +282,16 @@
     },
     {
       "type": "directory",
+      "source": "clothing/dl/alice",
+      "prefix": "clothing/dl/alice/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/dl/raysberets",
+      "prefix": "clothing/dl/raysberets/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/epcot_skins",
       "prefix": "clothing/epcot_skins/"
     },
@@ -289,6 +309,11 @@
       "type": "directory",
       "source": "clothing/fantasmic",
       "prefix": "clothing/fantasmic/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/figmentch",
+      "prefix": "clothing/figmentch/"
     },
     {
       "type": "directory",
@@ -567,6 +592,11 @@
     },
     {
       "type": "directory",
+      "source": "food/crepe",
+      "prefix": "food/crepe/"
+    },
+    {
+      "type": "directory",
       "source": "food/detonator",
       "prefix": "food/detonator/"
     },
@@ -594,6 +624,11 @@
       "type": "directory",
       "source": "food/mcparks10",
       "prefix": "food/mcparks10/"
+    },
+    {
+      "type": "directory",
+      "source": "food/starbucks",
+      "prefix": "food/starbucks/"
     },
     {
       "type": "directory",
@@ -664,6 +699,11 @@
       "type": "directory",
       "source": "merch/candles",
       "prefix": "merch/candles/"
+    },
+    {
+      "type": "directory",
+      "source": "merch/chattermax",
+      "prefix": "merch/chattermax/"
     },
     {
       "type": "directory",
@@ -764,6 +804,11 @@
       "type": "directory",
       "source": "merch/jp",
       "prefix": "merch/jp/"
+    },
+    {
+      "type": "directory",
+      "source": "merch/kh",
+      "prefix": "merch/kh/"
     },
     {
       "type": "directory",
@@ -1067,6 +1112,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/dl/alice",
+      "prefix": "vehicles/dl/alice/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/dl/autopia",
       "prefix": "vehicles/dl/autopia/"
     },
@@ -1089,6 +1139,11 @@
       "type": "directory",
       "source": "vehicles/dl/grr",
       "prefix": "vehicles/dl/grr/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dl/iasw",
+      "prefix": "vehicles/dl/iasw/"
     },
     {
       "type": "directory",
@@ -1282,6 +1337,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/wdw/busses",
+      "prefix": "vehicles/wdw/busses/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/wdw/dumbo",
       "prefix": "vehicles/wdw/dumbo/"
     },
@@ -1299,6 +1359,11 @@
       "type": "directory",
       "source": "vehicles/wdw/gotg",
       "prefix": "vehicles/wdw/gotg/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/wdw/iasw",
+      "prefix": "vehicles/wdw/iasw/"
     },
     {
       "type": "directory",

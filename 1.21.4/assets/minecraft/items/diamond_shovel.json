@@ -8464,7 +8464,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/uor/uso/villaincon",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8479,7 +8479,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/uor/uso/trollercoaster",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

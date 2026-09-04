@@ -1,0 +1,6 @@
+type=armor
+items=minecraft:leather_helmet
+nbt.display.color=4925223
+texture.leather_layer_1=textures/clothing/dl/raysberets/raysberetscowboy
+texture.leather_layer_1_overlay=textures/clothing/dl/raysberets/raysberetscowboy
+damage=1
