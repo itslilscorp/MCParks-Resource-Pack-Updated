@@ -4,7 +4,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/anger_ioew",
+                                                                     "model":  "vehicles/dl/ioew/anger",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -19,7 +19,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/bingbong_ioew",
+                                                                     "model":  "vehicles/dl/ioew/bingbong",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -34,7 +34,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/disgust_ioew",
+                                                                     "model":  "vehicles/dl/ioew/disgust",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -49,7 +49,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/fear_ioew",
+                                                                     "model":  "vehicles/dl/ioew/fear",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -64,7 +64,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/joy_ioew",
+                                                                     "model":  "vehicles/dl/ioew/joy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -79,7 +79,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/mindworkers_ioew",
+                                                                     "model":  "vehicles/dl/ioew/mindworkers",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -94,7 +94,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/sadness_ioew",
+                                                                     "model":  "vehicles/dl/ioew/sadness",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -109,7 +109,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/unicorn_ioew",
+                                                                     "model":  "vehicles/dl/ioew/unicorn",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -124,7 +124,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "vehicles/arm_ioew",
+                                                                     "model":  "vehicles/dl/ioew/arm",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -4999,7 +4999,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/balloonrace/yellow",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5014,7 +5014,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/balloonrace/orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5029,7 +5029,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/balloonrace/blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5044,7 +5044,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/balloonrace/green",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5059,7 +5059,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/balloonrace/arm",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5074,7 +5074,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/flyingace/red",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5089,7 +5089,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/flyingace/white",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5104,7 +5104,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/flyingace/arm",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5119,7 +5119,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/rapidriverrun",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5134,7 +5134,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/linuslauncher/main",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5149,7 +5149,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/linuslauncher/arm",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

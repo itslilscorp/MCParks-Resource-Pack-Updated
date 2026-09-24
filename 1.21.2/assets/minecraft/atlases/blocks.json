@@ -562,6 +562,11 @@
     },
     {
       "type": "directory",
+      "source": "entity/shulker",
+      "prefix": "entity/shulker/"
+    },
+    {
+      "type": "directory",
       "source": "entity/squid",
       "prefix": "entity/squid/"
     },
@@ -1097,6 +1102,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/bgt/cc",
+      "prefix": "vehicles/bgt/cc/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/bgt/ig",
       "prefix": "vehicles/bgt/ig/"
     },
@@ -1144,6 +1154,11 @@
       "type": "directory",
       "source": "vehicles/dl/iasw",
       "prefix": "vehicles/dl/iasw/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/dl/ioew",
+      "prefix": "vehicles/dl/ioew/"
     },
     {
       "type": "directory",
@@ -1227,13 +1242,28 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/knotts/balloonrace",
+      "prefix": "vehicles/knotts/balloonrace/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/knotts/beagle_express",
       "prefix": "vehicles/knotts/beagle_express/"
     },
     {
       "type": "directory",
+      "source": "vehicles/knotts/flyingace",
+      "prefix": "vehicles/knotts/flyingace/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/knotts/ghostrider",
       "prefix": "vehicles/knotts/ghostrider/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/knotts/linus_launcher",
+      "prefix": "vehicles/knotts/linus_launcher/"
     },
     {
       "type": "directory",
@@ -1309,6 +1339,11 @@
       "type": "directory",
       "source": "vehicles/uor/et",
       "prefix": "vehicles/uor/et/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/uor/hwg",
+      "prefix": "vehicles/uor/hwg/"
     },
     {
       "type": "directory",

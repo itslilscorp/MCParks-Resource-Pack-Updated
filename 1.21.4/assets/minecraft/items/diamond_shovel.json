@@ -8494,7 +8494,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "misc/hhnicon",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8509,7 +8509,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "misc/plain_pumpkinicon",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -8524,7 +8524,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "misc/purple_pumpkinicon",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

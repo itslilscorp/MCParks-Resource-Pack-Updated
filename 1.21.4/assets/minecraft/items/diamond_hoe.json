@@ -21544,7 +21544,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/bgt/montu",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21559,7 +21559,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/bgt/cc/cc_magenta",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21574,7 +21574,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/bgt/cc/cc_blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21589,7 +21589,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/bgt/cc/cc_orange",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21604,7 +21604,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/body/trashcanbodyms",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21619,7 +21619,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/misc/ghostsheadband",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21634,7 +21634,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/ears/misc/pastelminniepumpkins",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21649,7 +21649,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/body/trashcanbodyiasw",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21664,7 +21664,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/uor/hwg/hwg_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21679,7 +21679,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/uor/hwg/hwg_mid",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21694,7 +21694,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/uor/hwg/hwg_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21709,7 +21709,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fr_red_scooter",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21724,7 +21724,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fr_black_motorcycle",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21739,7 +21739,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fr_bike_gray",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21754,7 +21754,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/fr_bike_blue",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

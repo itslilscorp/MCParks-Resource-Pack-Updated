@@ -1,0 +1,25 @@
+{
+	"credit": "made_by_bubblesducky",
+	"textureSize": [64, 64],
+	"texture": "shulker.png",
+	"models": [
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0]
+		}
+	]
+}
