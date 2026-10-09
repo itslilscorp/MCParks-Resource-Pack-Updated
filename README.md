@@ -11,10 +11,54 @@ This is an unofficial<sup> [1](#1)</sup> updated version of the current MCParks 
 The original 1.12 version is also included for the sake of consistency.
 
 ## Table of Contents
+- [Downloads & Compatibility](#downloads--compatibility)
+- [Recommended Mods](#recommended-mods)
 - [What's Fixed?](#whats-fixed)
 - [Additional Info](#info)
 - [Credits](#credit)
 - [Disclaimers](#disclaimer)
+
+## Downloads & Compatibility
+
+**Playing Minecraft 1.21.4–26.3? Use the 1.21.4 pack.** It works across those versions, even though its folder and ZIP filename are labeled `1.21.4`.
+
+All download links below point directly to ZIP files from the latest release.
+
+| Minecraft version | Download |
+|---|---|
+| **1.21.4–26.3** | **[Download mcparkspack-1.21.4.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.21.4.zip)** |
+| 1.21.2–1.21.3 | [Download mcparkspack-1.21.2.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.21.2.zip) |
+| 1.21–1.21.1 | [Download mcparkspack-1.21.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.21.zip) |
+| 1.20.5–1.20.6 | [Download mcparkspack-1.20.5.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.20.5.zip) |
+| 1.20–1.20.4 | [Download mcparkspack-1.20.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.20.zip) |
+| 1.19.4 | [Download mcparkspack-1.19.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.19.zip) |
+
+For Minecraft 1.19.4, use the ZIP labeled `1.19`.
+
+<details>
+<summary>Show downloads for Minecraft 1.19 and older</summary>
+
+| Pack version | Download |
+|---|---|
+| 1.19 | [Download mcparkspack-1.19.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.19.zip) |
+| 1.18 | [Download mcparkspack-1.18.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.18.zip) |
+| 1.17 | [Download mcparkspack-1.17.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.17.zip) |
+| 1.16 | [Download mcparkspack-1.16.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.16.zip) |
+| 1.15 | [Download mcparkspack-1.15.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.15.zip) |
+| 1.14 | [Download mcparkspack-1.14.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.14.zip) |
+| 1.13 | [Download mcparkspack-1.13.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.13.zip) |
+| 1.12 (original) | [Download mcparkspack-1.12.zip](https://github.com/itslilscorp/MCParks-Resource-Pack-Updated/releases/latest/download/mcparkspack-1.12.zip) |
+
+</details>
+
+### Recommended Mods
+
+For playing on newer Minecraft clients, I recommend the following mods. Choose a release of each mod that matches your Minecraft version and install any dependencies listed on its download page.
+
+- **[ViaFabricPlus](https://modrinth.com/mod/viafabricplus)** — Lets you connect to MCParks from newer clients, with fixes for movement, interactions, and rendering when playing on older servers. Use its version selector to choose a Minecraft version the server accepts, and use the resource pack above that matches your actual client version.
+- **[Variants-CIT](https://modrinth.com/mod/variants-cit)** — Adds support for custom clothing textures in the pack.
+- **[Resclone](https://modrinth.com/mod/resclone) (optional)** — Can automatically download and update the resource pack when you launch the game. Configure it with the direct download URL above for your pack version; installing the mod alone won't set this up. See its mod page for configuration instructions.
+
 ## <a name="whats-fixed"></a>What's Fixed? <div style="text-align: right"> <a href="#top">ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a> </div>
 
 This is stuff that has been changed or updated in this version of the resource pack compared to what's on the official packs.
@@ -33,7 +77,7 @@ This is stuff that has been changed or updated in this version of the resource p
 ## <a name="info"></a>Additional Info <div style="text-align: right"> <a href="#top">ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a> </div>
 
 ### How are you updating the packs using a script?
-On the backend, I'm using a tool called n8n to check if the resource pack has been updated. If it has been updated, it runs a few batch scripts that will:
+On the backend, I'm using a script to check every few minutes if the resource pack has been updated. If it has been updated, it will:
   - Load the original 1.12 resource pack into a working folder
   - Add the resources to fix the invisible item frames<sup> [2](#2)</sup>
   - Run the resource pack converter<sup> [3](#3)</sup> to convert to 1.13.
@@ -41,10 +85,10 @@ On the backend, I'm using a tool called n8n to check if the resource pack has be
   - Package up the resource pack for deployment on Github
   - Repeat for each version 1.14+.
 
-After this is finished, n8n uploads the updated files to Github.
+After this is finished, the script uploads the updated files to Github.
 
 ### How long will it take you to update the packs here?
-Generally speaking, if the MCParks official pack updates, it should also be updated here within an hour. Technically speaking, I am checking for a resource pack update every 30 minutes or so. Once an update is found, the scripts can take around 15-20 minutes to fully convert everything and upload it here. That said, errors can and will happen, so take this estimate with a grain of salt.
+Updates should usually appear here within half an hour of an official MCParks pack update. The script checks every five minutes, and conversion and uploading typically take another 15–20 minutes. Errors can occasionally delay updates.
 
 ### Why haven't you provided the actual scripts?
 Honestly... the scripts are quite a janky mess that I'm surprised work as well as they do now. They are also tailored to work on my PC and may not work on other PCs due to file directory issues. 
@@ -52,13 +96,6 @@ Honestly... the scripts are quite a janky mess that I'm surprised work as well a
 This is definitely fixable, but I don't have the time to really mess with it right now. A good place to start for anyone wanting to try updating a pack on their own is this<sup> [3](#3)</sup> resource pack converter.
 
 For the record, if the server operators would like a copy of the scripts I'm using, I can provide them, but for right now, I won't be releasing them otherwise.
-
-### You took the screenshots from 1.21? How?
-We all know that the reason MCParks works best on 1.12 is because that's the version of Minecraft the server is actually running. In order to allow newer clients to join the server, a plugin is used server-side. 
-
-Since I am not affiliated with the server, I wouldn't know exactly which plugin is used, but a safe guess would be [ViaVersion](https://github.com/ViaVersion/ViaVersion) as it's popular among many servers.
-
-Well, ViaVersion also has a mod that can be used clientside called [ViaFabric](https://modrinth.com/mod/viafabric). Using this mod on 1.19.1+, one can easily connect to MCParks even though these versions are unsupported.
 
 ## <a name="credit"></a>Credits <div style="text-align: right"> <a href="#top">ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a> </div>
 
