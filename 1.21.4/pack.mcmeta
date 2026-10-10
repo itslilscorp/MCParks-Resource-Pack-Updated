@@ -3,10 +3,10 @@
                  "pack_format":  46,
                  "supported_formats":  [
                                            46,
-                                           84
+                                           97
                                        ],
                  "min_format":  46,
-                 "max_format":  84,
+                 "max_format":  97,
                  "description":  "MCParks Resource Pack v1.12_172"
              }
 }

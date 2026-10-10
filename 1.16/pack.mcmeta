@@ -1,12 +1,12 @@
 {
     "pack":  {
-                 "pack_format":  6,
+                 "pack_format":  7,
                  "supported_formats":  [
-                                           6,
-                                           6
+                                           7,
+                                           7
                                        ],
-                 "min_format":  6,
-                 "max_format":  6,
+                 "min_format":  7,
+                 "max_format":  7,
                  "description":  "MCParks Resource Pack v1.12_172"
              }
 }
