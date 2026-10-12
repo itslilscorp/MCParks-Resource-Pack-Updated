@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:mcparks_cit/4d0dd6422605d8c9cf13e3d652ae08ce2af522c42a80c987ddbace2b784f39a2",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      },
+      {
+        "texture": "minecraft:mcparks_cit/4d0dd6422605d8c9cf13e3d652ae08ce2af522c42a80c987ddbace2b784f39a2"
+      }
+    ]
+  }
+}

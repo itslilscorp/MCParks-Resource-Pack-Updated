@@ -1,0 +1,30 @@
+{
+  "type": "component_format",
+  "modelPrefix": "mcparks_cit/g0/",
+  "priority": 11,
+  "items": [
+    "minecraft:leather_chestplate",
+    "minecraft:leather_leggings",
+    "minecraft:leather_boots",
+    "minecraft:leather_helmet"
+  ],
+  "parameters": {
+    "format": "${item}_${color}_${damage}",
+    "variables": {
+      "item": {
+        "property": "item_type",
+        "transform": "discard_namespace"
+      },
+      "color": {
+        "componentType": "minecraft:dyed_color",
+        "expect": "number"
+      },
+      "damage": {
+        "componentType": "minecraft:damage",
+        "expect": "number",
+        "fallback": "0"
+      }
+    }
+  },
+  "context": "equippable"
+}

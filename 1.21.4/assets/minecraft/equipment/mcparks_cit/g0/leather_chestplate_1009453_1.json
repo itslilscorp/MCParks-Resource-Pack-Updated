@@ -1,0 +1,15 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:mcparks_cit/3621098195923cd8719b1102dd0c4a27c792e960d8d4ca469b4205bee0890563",
+        "dyeable": {
+          "color_when_undyed": -6265536
+        }
+      },
+      {
+        "texture": "minecraft:mcparks_cit/3621098195923cd8719b1102dd0c4a27c792e960d8d4ca469b4205bee0890563"
+      }
+    ]
+  }
+}

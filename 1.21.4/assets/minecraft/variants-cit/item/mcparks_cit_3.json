@@ -1,0 +1,22 @@
+{
+  "type": "component_format",
+  "modelPrefix": "mcparks_cit/g3/",
+  "priority": 8,
+  "items": [
+    "minecraft:leather_boots"
+  ],
+  "parameters": {
+    "format": "${item}_${color}",
+    "variables": {
+      "item": {
+        "property": "item_type",
+        "transform": "discard_namespace"
+      },
+      "color": {
+        "componentType": "minecraft:dyed_color",
+        "expect": "number"
+      }
+    }
+  },
+  "context": "equippable"
+}

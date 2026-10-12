@@ -1,0 +1,28 @@
+{
+  "type": "component_format",
+  "modelPrefix": "mcparks_cit/g4/",
+  "priority": 7,
+  "items": [
+    "minecraft:leather_leggings",
+    "minecraft:leather_chestplate"
+  ],
+  "parameters": {
+    "format": "${item}_${color}_${damage}",
+    "variables": {
+      "item": {
+        "property": "item_type",
+        "transform": "discard_namespace"
+      },
+      "color": {
+        "componentType": "minecraft:dyed_color",
+        "expect": "number"
+      },
+      "damage": {
+        "componentType": "minecraft:damage",
+        "expect": "number",
+        "fallback": "0"
+      }
+    }
+  },
+  "context": "equippable"
+}

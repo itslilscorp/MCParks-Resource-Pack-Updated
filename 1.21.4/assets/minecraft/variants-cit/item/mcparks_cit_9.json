@@ -1,0 +1,23 @@
+{
+  "type": "component_format",
+  "modelPrefix": "mcparks_cit/g9/",
+  "priority": 2,
+  "items": [
+    "minecraft:leather_helmet"
+  ],
+  "parameters": {
+    "format": "${item}_${damage}",
+    "variables": {
+      "item": {
+        "property": "item_type",
+        "transform": "discard_namespace"
+      },
+      "damage": {
+        "componentType": "minecraft:damage",
+        "expect": "number",
+        "fallback": "0"
+      }
+    }
+  },
+  "context": "equippable"
+}

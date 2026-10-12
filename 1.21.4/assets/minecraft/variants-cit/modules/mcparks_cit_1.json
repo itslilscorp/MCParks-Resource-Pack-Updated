@@ -1,0 +1,29 @@
+{
+  "type": "component_format",
+  "hook": "equippable",
+  "modelPrefix": "mcparks_cit/g1/",
+  "priority": 10,
+  "items": [
+    "minecraft:leather_chestplate"
+  ],
+  "parameters": {
+    "format": "${item}_${color}",
+    "variables": {
+      "item": {
+        "property": "item_type",
+        "transform": "discard_namespace"
+      },
+      "color": {
+        "componentType": "minecraft:dyed_color",
+        "transform": [
+          "get_snbt",
+          "sanitize",
+          {
+            "regex": "^(?:rgb)?([0-9]+)(?:show_in_tooltip.*)?$",
+            "substitution": "$1"
+          }
+        ]
+      }
+    }
+  }
+}

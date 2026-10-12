@@ -1,0 +1,29 @@
+{
+  "type": "component_format",
+  "hook": "equippable",
+  "modelPrefix": "mcparks_cit/g7/",
+  "priority": 4,
+  "items": [
+    "minecraft:leather_boots"
+  ],
+  "parameters": {
+    "format": "${item}_${color}",
+    "variables": {
+      "item": {
+        "property": "item_type",
+        "transform": "discard_namespace"
+      },
+      "color": {
+        "componentType": "minecraft:dyed_color",
+        "transform": [
+          "get_snbt",
+          "sanitize",
+          {
+            "regex": "^(?:rgb)?([0-9]+)(?:show_in_tooltip.*)?$",
+            "substitution": "$1"
+          }
+        ]
+      }
+    }
+  }
+}

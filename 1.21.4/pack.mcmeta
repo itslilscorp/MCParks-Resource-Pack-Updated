@@ -1,12 +1,94 @@
 {
-    "pack":  {
-                 "pack_format":  46,
-                 "supported_formats":  [
-                                           46,
-                                           97
-                                       ],
-                 "min_format":  46,
-                 "max_format":  97,
-                 "description":  "MCParks Resource Pack v1.12_172"
-             }
+  "pack": {
+    "pack_format": 46,
+    "supported_formats": [
+      46,
+      97
+    ],
+    "min_format": 46,
+    "max_format": 97,
+    "description": "MCParks Resource Pack v1.12_172"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "compat_1_21_5",
+        "min_format": 55,
+        "max_format": 83,
+        "formats": {
+          "min_inclusive": 55,
+          "max_inclusive": 83
+        }
+      },
+      {
+        "directory": "compat_26_1",
+        "min_format": 84,
+        "max_format": [
+          97,
+          1
+        ],
+        "formats": {
+          "min_inclusive": 84,
+          "max_inclusive": 97
+        }
+      },
+      {
+        "directory": "compat_26_2",
+        "min_format": 88,
+        "max_format": [
+          97,
+          1
+        ],
+        "formats": {
+          "min_inclusive": 88,
+          "max_inclusive": 97
+        }
+      },
+      {
+        "directory": "compat_26_3",
+        "min_format": 97,
+        "max_format": [
+          97,
+          1
+        ],
+        "formats": {
+          "min_inclusive": 97,
+          "max_inclusive": 97
+        }
+      },
+      {
+        "directory": "compat_1_21_6",
+        "min_format": 63,
+        "max_format": 96,
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 96
+        }
+      },
+      {
+        "directory": "compat_1_21_11",
+        "min_format": 75,
+        "max_format": [
+          97,
+          1
+        ],
+        "formats": {
+          "min_inclusive": 75,
+          "max_inclusive": 97
+        }
+      },
+      {
+        "directory": "compat_glint_1_21_5",
+        "min_format": 55,
+        "max_format": [
+          97,
+          1
+        ],
+        "formats": {
+          "min_inclusive": 55,
+          "max_inclusive": 97
+        }
+      }
+    ]
+  }
 }
