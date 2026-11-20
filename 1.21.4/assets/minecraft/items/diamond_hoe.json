@@ -21739,7 +21739,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/fr_bike_gray",
+                                                                     "model":  "merch/hats/caps/tweedle",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21754,7 +21754,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "misc/fr_bike_blue",
+                                                                     "model":  "food/lollipop_snoopy",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21769,7 +21769,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/kbf/camp_woodstock",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21784,7 +21784,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/hats/misc/flyingace",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21799,7 +21799,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "books/beaglescout_handbook",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21814,7 +21814,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "food/boysenberrypieslice",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21829,7 +21829,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_main_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21844,7 +21844,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_main_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21859,7 +21859,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_figment_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21874,7 +21874,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_figment_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21889,7 +21889,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_donald_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21904,7 +21904,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_donald_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21919,7 +21919,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_daisy_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21934,7 +21934,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_daisy_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21949,7 +21949,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_mickey_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21964,7 +21964,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_mickey_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21979,7 +21979,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_minnie_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -21994,7 +21994,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_minnie_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22009,7 +22009,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_orangebird_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22024,7 +22024,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_orangebird_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22039,7 +22039,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_pluto_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22054,7 +22054,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_pluto_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22069,7 +22069,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_chipmonks_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22084,7 +22084,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_chipmonks_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22099,7 +22099,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_goofy_front",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22114,7 +22114,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "vehicles/wdw/bus/wdw_bus_goofy_back",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22129,7 +22129,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "misc/ee_yeti",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22144,7 +22144,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/snowglobe/duck_animated",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22159,7 +22159,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/snowglobe/duck_static",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22174,7 +22174,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/snowglobe/boby_animated",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -22189,7 +22189,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_hoe",
+                                                                     "model":  "merch/toys/snowglobe/boby_static",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

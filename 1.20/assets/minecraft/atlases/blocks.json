@@ -222,6 +222,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/cm/epic_universe",
+      "prefix": "clothing/cm/epic_universe/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/cm/everest",
       "prefix": "clothing/cm/everest/"
     },
@@ -302,6 +307,11 @@
     },
     {
       "type": "directory",
+      "source": "clothing/epic_universe",
+      "prefix": "clothing/epic_universe/"
+    },
+    {
+      "type": "directory",
       "source": "clothing/fairies",
       "prefix": "clothing/fairies/"
     },
@@ -364,6 +374,11 @@
       "type": "directory",
       "source": "clothing/kbf/cm",
       "prefix": "clothing/kbf/cm/"
+    },
+    {
+      "type": "directory",
+      "source": "clothing/lincoln",
+      "prefix": "clothing/lincoln/"
     },
     {
       "type": "directory",
@@ -857,6 +872,11 @@
     },
     {
       "type": "directory",
+      "source": "merch/snowglobe",
+      "prefix": "merch/snowglobe/"
+    },
+    {
+      "type": "directory",
       "source": "merch/spiderbots",
       "prefix": "merch/spiderbots/"
     },
@@ -1262,6 +1282,11 @@
     },
     {
       "type": "directory",
+      "source": "vehicles/knotts/kiteflyer",
+      "prefix": "vehicles/knotts/kiteflyer/"
+    },
+    {
+      "type": "directory",
       "source": "vehicles/knotts/linus_launcher",
       "prefix": "vehicles/knotts/linus_launcher/"
     },
@@ -1284,6 +1309,11 @@
       "type": "directory",
       "source": "vehicles/knotts/silverbullet",
       "prefix": "vehicles/knotts/silverbullet/"
+    },
+    {
+      "type": "directory",
+      "source": "vehicles/knotts/swingalong",
+      "prefix": "vehicles/knotts/swingalong/"
     },
     {
       "type": "directory",

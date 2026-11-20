@@ -5164,7 +5164,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/kiteflyer/seat",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5179,7 +5179,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/kiteflyer/tree_kite",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5194,7 +5194,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/kiteflyer/tree_smile",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5209,7 +5209,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/swingalong/swing",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
@@ -5224,7 +5224,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_axe",
+                                                                     "model":  "vehicles/knotts/swingalong/frame",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",

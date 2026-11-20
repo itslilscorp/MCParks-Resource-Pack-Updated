@@ -8539,7 +8539,7 @@
                                   {
                                       "model":  {
                                                     "on_false":  {
-                                                                     "model":  "item/diamond_shovel",
+                                                                     "model":  "attractions/knotts/rapidriverrun",
                                                                      "type":  "model"
                                                                  },
                                                     "property":  "damaged",
